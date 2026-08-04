@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { DayToggle } from "@/components/schedule/DayToggle";
 import { SearchBar } from "@/components/schedule/SearchBar";
 import { SessionModal } from "@/components/schedule/SessionModal";
@@ -47,18 +47,35 @@ export default function Home() {
     }));
   }, [activeDayData]);
 
+  const normalizedSearch = search.trim().toLocaleLowerCase();
+
+  const sessionMatchesSearch = useCallback(
+    (session: Session) =>
+      !normalizedSearch ||
+      session.title.toLocaleLowerCase().includes(normalizedSearch) ||
+      session.speakers.some((speaker) =>
+        speaker.name.toLocaleLowerCase().includes(normalizedSearch),
+      ) ||
+      session.moderator?.name.toLocaleLowerCase().includes(normalizedSearch) === true,
+    [normalizedSearch],
+  );
+
+  useEffect(() => {
+    if (!normalizedSearch) return;
+    const firstDayWithMatch = scheduleDays.find((day) =>
+      day.sessions.some(sessionMatchesSearch),
+    );
+    if (firstDayWithMatch && firstDayWithMatch.day !== activeDay) {
+      setActiveDay(firstDayWithMatch.day);
+    }
+  }, [normalizedSearch, activeDay, sessionMatchesSearch]);
+
   const timeSlots = useMemo(() => {
-    const normalizedSearch = search.trim().toLocaleLowerCase();
     const matchingSessions = sessions.filter((session) => {
       const matchesTrack =
         activeTracks.length === 0 ||
         activeTracks.some((track) => session.track.includes(track));
-      const matchesSearch =
-        !normalizedSearch ||
-        session.title.toLocaleLowerCase().includes(normalizedSearch) ||
-        session.speakers.some((speaker) =>
-          speaker.name.toLocaleLowerCase().includes(normalizedSearch),
-        );
+      const matchesSearch = sessionMatchesSearch(session);
 
       return matchesTrack && matchesSearch;
     });
@@ -77,7 +94,7 @@ export default function Home() {
         time: slotSessions[0].time,
         sessions: slotSessions,
       }));
-  }, [activeTracks, search, sessions]);
+  }, [activeTracks, sessions, sessionMatchesSearch]);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-7 sm:px-6 sm:py-10">
