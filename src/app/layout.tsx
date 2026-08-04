@@ -44,7 +44,7 @@ export default function RootLayout({
         <SilkBackground />
         <div className="relative z-10 flex min-h-screen flex-col">
           <Header />
-          <main className="flex-1">{children}</main>
+          <main className="flex-1 pb-20">{children}</main>
           <Footer />
         </div>
       </body>
