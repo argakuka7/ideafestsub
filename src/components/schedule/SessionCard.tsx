@@ -43,6 +43,11 @@ export function SessionCard({ session, onSelect }: SessionCardProps) {
               {speaker.name}
             </p>
           ))}
+          {session.moderator ? (
+            <p className="line-clamp-1 text-xs text-gray-400">
+              <span className="font-semibold uppercase tracking-wide">Moderator</span> · {session.moderator.name}
+            </p>
+          ) : null}
         </div>
         <div className="mt-auto flex items-center gap-2 pt-4 text-xs font-semibold text-gray-500">
           <Icon aria-hidden icon="lucide:map-pin" className="h-4 w-4" />
