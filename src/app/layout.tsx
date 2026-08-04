@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "IDEATALKS — Event Rundown",
-  description: "IDEATALKS 2026 event schedule, speakers, and sessions",
+  description: "IdeaFest SUB 2026 · The Next Leap — event schedule, speakers, and sessions",
 };
 
 export default function RootLayout({

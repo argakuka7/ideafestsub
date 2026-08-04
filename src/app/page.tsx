@@ -81,7 +81,7 @@ export default function Home() {
       <div className="flex flex-col gap-6">
         <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
           <div>
-            <p className="text-sm font-black uppercase tracking-[0.18em] text-[#E91E8C]">IDEATALKS 2026</p>
+            <p className="text-sm font-black uppercase tracking-[0.18em] text-[#E91E8C]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
             <h1 className="mt-1 text-3xl font-black tracking-tight text-[#1A1A1A] sm:text-4xl">Find your next big idea.</h1>
             <p className="mt-2 max-w-xl text-sm leading-relaxed text-gray-500 sm:text-base">
               Explore conversations across eight rooms, then save the talks you do not want to miss.

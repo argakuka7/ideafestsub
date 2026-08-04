@@ -30,7 +30,7 @@ export default function SpeakersPage() {
   return (
     <section className="mx-auto w-full max-w-7xl px-4 py-8 sm:px-6 sm:py-12">
       <div className="max-w-2xl">
-        <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#E91E8C]">IDEATALKS 2026</p>
+        <p className="text-sm font-bold uppercase tracking-[0.2em] text-[#E91E8C]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
         <h1 className="mt-2 text-3xl font-black tracking-tight text-[#5C1A2B] sm:text-4xl">
           Meet the speakers
         </h1>
