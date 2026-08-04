@@ -23,7 +23,7 @@ export function DayToggle({ activeDay, days, onChange }: DayToggleProps) {
         return (
           <button
             aria-selected={active}
-            className={`rounded-xl px-4 py-2 text-left text-sm transition sm:px-5 ${
+            className={`rounded-xl px-2.5 py-1.5 text-left text-xs transition sm:px-5 sm:py-2 sm:text-sm ${
               active
                 ? "bg-[#1A1A1A] text-white shadow-sm"
                 : "text-gray-500 hover:bg-white hover:text-[#1A1A1A]"

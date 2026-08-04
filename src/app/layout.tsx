@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Anton } from "next/font/google";
 import "./globals.css";
 import { Footer } from "@/components/Footer";
@@ -7,6 +7,13 @@ import { SilkBackground } from "@/components/SilkBackground";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const anton = Anton({ subsets: ["latin"], weight: "400", variable: "--font-anton" });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: "#0E1E4A",
+};
 
 export const metadata: Metadata = {
   title: "IDEATALKS — Event Rundown",

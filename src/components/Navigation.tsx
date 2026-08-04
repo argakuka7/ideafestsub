@@ -21,7 +21,7 @@ export function Navigation() {
           <Link
             key={link.href}
             href={link.href}
-            className={`rounded-full px-3 py-1.5 text-sm font-medium transition-colors ${
+            className={`rounded-full px-2.5 py-1.5 text-xs font-medium transition-colors sm:px-3 sm:text-sm ${
               active
                 ? "bg-[#E91E8C] text-white"
                 : "text-gray-600 hover:bg-gray-100"

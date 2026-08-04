@@ -88,8 +88,8 @@ export default function Home() {
         <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
           <div className="relative">
             <Blob className="pointer-events-none absolute -top-12 -right-12 -z-10 h-44 w-44 opacity-90 sm:h-56 sm:w-56" color="#E91E8C" />
-            <p className="text-sm font-black uppercase tracking-[0.18em] text-[var(--pink)]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
-            <h1 className="mt-2 font-display text-5xl leading-[0.95] tracking-tight text-[var(--cream)] drop-shadow-[0_2px_12px_rgba(0,0,0,0.35)] sm:text-7xl">Find your next<br />big idea.</h1>
+            <p className="mt-2 text-sm font-black uppercase tracking-[0.18em] text-[var(--pink)]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
+            <h1 className="mt-2 font-display text-4xl leading-[0.95] tracking-tight text-[var(--cream)] drop-shadow-[0_2px_12px_rgba(0,0,0,0.35)] sm:text-5xl md:text-7xl">Find your next<br />big idea.</h1>
             <p className="mt-4 max-w-xl text-base leading-relaxed text-white/85 sm:text-lg">
               Explore conversations across eight rooms, then save the talks you do not want to miss.
             </p>
