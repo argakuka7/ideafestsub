@@ -1,0 +1,977 @@
+[
+  {
+    "id": "srya-pratama",
+    "name": "Surya Pratama",
+    "role": "Founder of Orenji Music School | Co-Founder of Arkas Ideas | Commissioner of PT Sumber Agung Fastener | Business Consultant at Kojo Project",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "cynthia-cecilia",
+    "name": "Cynthia Cecilia",
+    "role": "Co-Founder of Jobhun",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "shinta-soebijandono",
+    "name": "Shinta Soebijandono",
+    "role": "Government Relations for Millenial Job Center (MJC) Program",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "yemima-chandra",
+    "name": "Yemima Chandra",
+    "role": "Founder of Veloute Beauty Lounge",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "raisa-akwilla",
+    "name": "Raisa Akwilla",
+    "role": "Head of Marketing and Business Development at Transmarco Group",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "edwin-tranggono",
+    "name": "Edwin Tranggono",
+    "role": "Creative Director of Middleform Design Studio",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "bryan-valenza",
+    "name": "Bryan Valenza",
+    "role": "Co-Founder of Beyondtopia, Comic Creator & Artist",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "steani-gabriela",
+    "name": "Stefani Gabriela",
+    "role": "Content Creator & Family Storyteller",
+    "tracks": [
+      "Content"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "edwin-naarin",
+    "name": "Edwin Nafarin",
+    "role": "Principal Dpavilion Architects",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "rendy-hendrawan",
+    "name": "Rendy Hendrawan",
+    "role": "Founder of Supratman Arsitektura",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "arie-bdiono",
+    "name": "Arief Budiono",
+    "role": "Ketua Ekosistem Start Up Surabaya",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "yazerlin-nadila-balqis",
+    "name": "Yazerlin Nadila Balqis",
+    "role": "Founder of Sayurmoms, Ketua Umum Paguyuban Cak & Ning Surabaya",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "andrew-hartono",
+    "name": "Andrew Hartono",
+    "role": "CEO of NAIL2000, GTS POWER GENSET, JCI EAST JAVA PRESIDENT 2025",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "ryan-wirasasmita",
+    "name": "Ryan Wirasasmita",
+    "role": "CEO of Buana, Founder of Timberlab",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "aristia-chen",
+    "name": "Aristia Chen",
+    "role": "CMO of Mazuta Group",
+    "tracks": [
+      "Self Development"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "evelyn-jiang",
+    "name": "Evelyn Jiang",
+    "role": "Mandopop Producer, Singer & Songwriter",
+    "tracks": [
+      "Self Development"
+    ],
+    "sessionIds": [
+      "d1-s1-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "rosiana-ay",
+    "name": "Rosiana Ayu",
+    "role": "Creative Marketing Director of REI Skin, Multi-Creative Specialist",
+    "tracks": [
+      "Art & Culture x Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s2-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "jocab-santosa",
+    "name": "Jocab Santosa",
+    "role": "CD at 8IDEA STUDIO",
+    "tracks": [
+      "Art & Culture x Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s2-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "mathina",
+    "name": "Mathina",
+    "role": "Founder of Fablyme",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "joeanca",
+    "name": "Joefanca",
+    "role": "Co-Founder of FablyMe",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "chikology",
+    "name": "Chikology",
+    "role": "Content Creator & Mental Health Counselor",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "mizan-slthon",
+    "name": "Mizan Sulthon",
+    "role": "CEO of Parahita Diagnostic Center",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "charles-wonsono",
+    "name": "Charles Wonsono",
+    "role": "Healthcare Business Director",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "armi-bachsin",
+    "name": "Arumi Bachsin",
+    "role": "Public Figure",
+    "tracks": [
+      "Self Development"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "emil-elestianto-dardak",
+    "name": "Emil Elestianto Dardak",
+    "role": "Vice Governor of East Java",
+    "tracks": [
+      "Self Development"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "andre-astono",
+    "name": "Andre Astono",
+    "role": "Founder of Goodfellas Barbershop",
+    "tracks": [
+      "FnB - Business"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "a-ditya-wardhana",
+    "name": "A. Ditya Wardhana",
+    "role": "COO of Kopi Titik Koma",
+    "tracks": [
+      "FnB - Business"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "samel-lie",
+    "name": "Samuel Lie",
+    "role": "Owner of Common Grounds Surabaya",
+    "tracks": [
+      "FnB - Business"
+    ],
+    "sessionIds": [
+      "d1-s2-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "jimmy-carlos-simamora",
+    "name": "Jimmy Carlos Simamora",
+    "role": "Channel Manager of Huawei Indonesia",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "gritno-wirandoko",
+    "name": "Guritno Wirandoko",
+    "role": "Sustainability Manager of PT SUPARMA TBK",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "dr-ags-windharto-dea",
+    "name": "Dr. Agus Windharto. DEA.",
+    "role": "Praktisi Inovasi Desain, Akademisi ITS",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "ario-bay",
+    "name": "Ario Bayu",
+    "role": "Certified AI Consultant, Founder of Zero One and PrivGate.ai",
+    "tracks": [
+      "Teknologi"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "abibay-gstri-kamadjaja",
+    "name": "Abibayu Gustri Kamadjaja",
+    "role": "Creator & VP of Social Bread Enterprise",
+    "tracks": [
+      "Content"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "winona-araminta",
+    "name": "Winona Araminta",
+    "role": "Storyteller Content Creator",
+    "tracks": [
+      "Content"
+    ],
+    "sessionIds": [
+      "d1-s2-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "enos-aditya-saptra",
+    "name": "Enos Aditya Saputra",
+    "role": "Creative Director of Beast Studio",
+    "tracks": [
+      "Content x Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s3-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "timothy-rbino",
+    "name": "Timothy Rubino",
+    "role": "Founder of KOKOMOBIL",
+    "tracks": [
+      "Content x Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s3-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "erry-siswadi-se",
+    "name": "Ferry Siswadi SE",
+    "role": "Director of Bu Rudy Group, Owner of Urban Escape Arena",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "rizky-wihardi",
+    "name": "Rizky Wihardi",
+    "role": "CEO & Managing Partner of wiseco.id",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "jiewa-vieri",
+    "name": "Jiewa Vieri",
+    "role": "Founder of INIJIE Food & Travel, INIJIE Academy",
+    "tracks": [
+      "Self Development"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "cinng",
+    "name": "Cinfung",
+    "role": "Entrepreneur dan Content Creator, Founder dari The Overtee, The Overtee Kids, Doesoen Roti, dan Kwakkie",
+    "tracks": [
+      "Content x Art"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "valen-amijo",
+    "name": "Valen Amijo",
+    "role": "Co Founder of GIN",
+    "tracks": [
+      "Content x Art"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "abraham-setiawan",
+    "name": "Abraham Setiawan",
+    "role": "CEO of Bie Hin Tailor",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "andrew-wijaya",
+    "name": "Andrew Wijaya",
+    "role": "Director of Sumberyala Group",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s3-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "perry-angglishartono",
+    "name": "Perry Angglishartono",
+    "role": "PGM PT. Jamu Iboe Jaya",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s3-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "nareswari-lila",
+    "name": "Nareswari Lila",
+    "role": "MC & Content Creator",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s3-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "nathan-santoso",
+    "name": "Nathan Santoso",
+    "role": "CEO of IWAK ARUMERY",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s3-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "alamanda",
+    "name": "Alamanda",
+    "role": "Artworker at @artchemist.id",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s3-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "karin-binanto",
+    "name": "Karin Binanto",
+    "role": "CEO of Karbs, Kkado & WKM Concepts",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s3-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "elicia-arista",
+    "name": "Felicia Arista",
+    "role": "Head of Brand Development & Strategist",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "deby-p-dewi",
+    "name": "Deby P. Dewi",
+    "role": "Managing Director of Orasis Art Space",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "singgih-s-kartono",
+    "name": "Singgih S Kartono",
+    "role": "Founder of Magno, Spedagi Bamboo Bike, Spedagi Movement, Pasar Papringan",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "rina-andriani-s-sos-mm",
+    "name": "Rina Andriani, S.Sos., MM.",
+    "role": "Lurah Nusukan, Kecamatan Banjarsari, Kota Surakarta",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "steven-johnsons-tjan-bbs",
+    "name": "Steven Johnsons Tjan, BBus",
+    "role": "CEO of Petarung Group",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "ivonne-sabrina",
+    "name": "Ivonne Sabrina",
+    "role": "Country Manager of Lifewave Indonesia, Chairwoman of Surabaya Business Forum",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "tjahjono-haryono",
+    "name": "Tjahjono Haryono",
+    "role": "President Director of PT Pangan Lestari",
+    "tracks": [
+      "Policy Making x FnB"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "erry-setiawan",
+    "name": "Ferry Setiawan",
+    "role": "Ketua Umum Apkrindo DPD Jatim",
+    "tracks": [
+      "Policy Making x FnB"
+    ],
+    "sessionIds": [
+      "d1-s4-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "steven-lee-njatawidjaja-b-s-m-b-a",
+    "name": "Steven Lee Njatawidjaja, B.S., M.B.A.",
+    "role": "CEO of ArtGrass and Midorie Indonesia",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "maria-smargo",
+    "name": "Maria Sumargo",
+    "role": "Direktur GBT Laras Imbang",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "nysa-pratiwi",
+    "name": "Nysa Pratiwi",
+    "role": "CMO of Ladang Lima",
+    "tracks": [
+      "Self Development / Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "monica-liando",
+    "name": "Monica Liando",
+    "role": "CMO of Pura The Purest",
+    "tracks": [
+      "Self Development / Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "ibro-kmar",
+    "name": "Ibro Kumar",
+    "role": "Tech Reviewer & Content Creator",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "devietha-krnia",
+    "name": "Devietha Kurnia",
+    "role": "Yogapreneur of @yogamate__",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s4-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "nadia-gnawan",
+    "name": "Nadia Gunawan",
+    "role": "Children's Book Illustrator",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "evan-raditya-pratomo",
+    "name": "Evan Raditya Pratomo",
+    "role": "Design Lecturer & Creative Practitioner of PAPERCAPTAIN",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-origin"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "bdi-haryono",
+    "name": "Budi Haryono",
+    "role": "Founder of Crunchaus Salads",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "andrew-wirawan",
+    "name": "Andrew Wirawan",
+    "role": "Owner of Cardea Surabaya and Expat. Roasters Surabaya",
+    "tracks": [
+      "FnB"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "yohana-belinda",
+    "name": "Yohana Belinda",
+    "role": "Writer, Journalist",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "meiske-d-wahy",
+    "name": "Meiske D. Wahyu",
+    "role": "ICF-Associate Certified Coach & Head of Partnership Pause & Grow",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "m-ali-aandi-l-n-m",
+    "name": "M. Ali Affandi L.N.M.",
+    "role": "Chairman of Kadin Surabaya",
+    "tracks": [
+      "Policy Making"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "stephanie-ssi",
+    "name": "Stephanie Susi",
+    "role": "Founder of Im Not Trash.",
+    "tracks": [
+      "Mental Health x Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "carla-stanto",
+    "name": "Carla Sutanto",
+    "role": "Co-Founder of Nuansa Concept",
+    "tracks": [
+      "Mental Health x Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-crystal45"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "chitra-astriana",
+    "name": "Chitra Astriana",
+    "role": "Co-Founder of DearAstrid & Balita",
+    "tracks": [
+      "Mental Health"
+    ],
+    "sessionIds": [
+      "d1-s5-diamond1"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "steven-wijaya",
+    "name": "Steven Wijaya",
+    "role": "Managing Director for APAC",
+    "tracks": [
+      "Bisnis"
+    ],
+    "sessionIds": [
+      "d1-s5-diamond2"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "andy-soegiarto",
+    "name": "Fandy Soegiarto",
+    "role": "General Manager of Caravan Studio",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  },
+  {
+    "id": "agstian-pratama",
+    "name": "Agustian Pratama",
+    "role": "Podcaster and Founder of Podcast Mendoan",
+    "tracks": [
+      "Art & Culture"
+    ],
+    "sessionIds": [
+      "d1-s5-diamond3"
+    ],
+    "bio": "",
+    "bioStatus": "pending"
+  }
+]
