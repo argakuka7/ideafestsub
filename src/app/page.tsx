@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { DayToggle } from "@/components/schedule/DayToggle";
 import { SearchBar } from "@/components/schedule/SearchBar";
 import { SessionModal } from "@/components/schedule/SessionModal";
@@ -14,27 +14,11 @@ import type { DayData, Session } from "@/lib/types";
 
 const scheduleDays = sessionsData as DayData[];
 
-function isCurrentSession(session: Session, now: Date | null) {
-  if (!now) return false;
-
-  const startsAt = new Date(`${session.date}T${session.timeStart}:00`);
-  const endsAt = new Date(`${session.date}T${session.timeEnd}:00`);
-  return now >= startsAt && now <= endsAt;
-}
-
 export default function Home() {
   const [activeDay, setActiveDay] = useState(scheduleDays[0]?.day ?? 1);
   const [search, setSearch] = useState("");
   const [activeTracks, setActiveTracks] = useState<string[]>([]);
   const [selectedSession, setSelectedSession] = useState<Session | null>(null);
-  const [now, setNow] = useState<Date | null>(null);
-
-  useEffect(() => {
-    const refreshTime = () => setNow(new Date());
-    refreshTime();
-    const interval = window.setInterval(refreshTime, 60_000);
-    return () => window.clearInterval(interval);
-  }, []);
 
   const activeDayData = scheduleDays.find((day) => day.day === activeDay) ?? scheduleDays[0];
 
@@ -49,33 +33,35 @@ export default function Home() {
 
   const normalizedSearch = search.trim().toLocaleLowerCase();
 
-  const sessionMatchesSearch = useCallback(
-    (session: Session) =>
-      !normalizedSearch ||
-      session.title.toLocaleLowerCase().includes(normalizedSearch) ||
-      session.speakers.some((speaker) =>
-        speaker.name.toLocaleLowerCase().includes(normalizedSearch),
-      ) ||
-      session.moderator?.name.toLocaleLowerCase().includes(normalizedSearch) === true,
-    [normalizedSearch],
-  );
-
   useEffect(() => {
     if (!normalizedSearch) return;
     const firstDayWithMatch = scheduleDays.find((day) =>
-      day.sessions.some(sessionMatchesSearch),
+      day.sessions.some((session) =>
+        !normalizedSearch ||
+        session.title.toLocaleLowerCase().includes(normalizedSearch) ||
+        session.speakers.some((speaker) =>
+          speaker.name.toLocaleLowerCase().includes(normalizedSearch),
+        ) ||
+        session.moderator?.name.toLocaleLowerCase().includes(normalizedSearch) === true,
+      ),
     );
     if (firstDayWithMatch && firstDayWithMatch.day !== activeDay) {
       setActiveDay(firstDayWithMatch.day);
     }
-  }, [normalizedSearch, activeDay, sessionMatchesSearch]);
+  }, [normalizedSearch, activeDay]);
 
   const timeSlots = useMemo(() => {
     const matchingSessions = sessions.filter((session) => {
       const matchesTrack =
         activeTracks.length === 0 ||
         activeTracks.some((track) => session.track.includes(track));
-      const matchesSearch = sessionMatchesSearch(session);
+      const matchesSearch =
+        !normalizedSearch ||
+        session.title.toLocaleLowerCase().includes(normalizedSearch) ||
+        session.speakers.some((speaker) =>
+          speaker.name.toLocaleLowerCase().includes(normalizedSearch),
+        ) ||
+        session.moderator?.name.toLocaleLowerCase().includes(normalizedSearch) === true;
 
       return matchesTrack && matchesSearch;
     });
@@ -94,7 +80,7 @@ export default function Home() {
         time: slotSessions[0].time,
         sessions: slotSessions,
       }));
-  }, [activeTracks, sessions, sessionMatchesSearch]);
+  }, [activeTracks, sessions, normalizedSearch]);
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-7 sm:px-6 sm:py-10">
@@ -123,7 +109,7 @@ export default function Home() {
           <div className="space-y-8">
             {timeSlots.map((slot) => (
               <TimeSlot
-                isNowPlaying={slot.sessions.some((session) => isCurrentSession(session, now))}
+                isNowPlaying={false}
                 key={slot.sessionNumber}
                 onSelect={setSelectedSession}
                 sessions={slot.sessions}
