@@ -46,4 +46,1690 @@
       {"id":"d1-s5-diamond3","sessionNumber":5,"time":"17:30-18:20","timeStart":"17:30","timeEnd":"18:20","room":"Diamond 3","roomShort":"Diamond 3","title":"How Local Creators Build Characters, Communities, and Commercial Value","track":"Art & Culture","speakers":[{"name":"Fandy Soegiarto","role":"General Manager of Caravan Studio"},{"name":"Agustian Pratama","role":"Podcaster and Founder of Podcast Mendoan"}],"moderator":{"name":"Andre Harrera","role":"Content Creator & Community Builder"},"status":"confirmed"}
     ]
   }
+,
+
+  {
+    "day": 2,
+    "date": "2026-08-08",
+    "dayLabel": "Day 2",
+    "sessions": [
+      {
+        "id": "d2-s1-origin",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "AI for Family Business That Actually Works",
+        "track": "Bisnis x Teknologi",
+        "speakers": [
+          {
+            "name": "Kevin Ariel",
+            "role": "CEO of MGW"
+          }
+        ],
+        "moderator": {
+          "name": "Adhi Baskoro",
+          "role": "Digital Ads Specialist at Marcomm Telkomsel Area Jawa Bali"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-crystal1",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "From Market to Movement: Conscious Entrepreneurship and the Creative Energy of Surabaya",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Ong Alfie",
+            "role": "Co-Founder of Artisan Market, Youth Up and Ideafest Sub"
+          },
+          {
+            "name": "Lindyawati Limbono",
+            "role": "Co-Founder of Artisan Market, Youth Up and Ideafest Sub"
+          },
+          {
+            "name": "Cakra Daeng",
+            "role": "Co-Founder & CEO of SOD Group"
+          }
+        ],
+        "moderator": {
+          "name": "Wulan Anggraini Santoso",
+          "role": "Founder littleMamaBento"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-crystal2",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "What Climate Tech and Carbon Markets Mean for Young Builders from Surabaya",
+        "track": "Teknologi",
+        "speakers": [
+          {
+            "name": "Mohammad Naufal",
+            "role": "Founder & CEO of Carbon Addons"
+          },
+          {
+            "name": "Imelda Velez Harsono",
+            "role": "Deputy CEO of Samator Indo Gas Tbk"
+          }
+        ],
+        "moderator": {
+          "name": "Ghea Novianti",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-crystal3",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "Calibrating and Collaborating Different Art Medium and How to Sell It",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Dipa Andika",
+            "role": "Chief Commercial Officer of HAHAHA CORP"
+          }
+        ],
+        "moderator": {
+          "name": "Alexander Christian Andrew",
+          "role": "Content Creator & Video Director of Film by Alek & Seed and Scene"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-crystal45",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "Building Value Through Product Excellence",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Dave Natakusuma Imam Rahardjo",
+            "role": "CEO of Mantra Group"
+          },
+          {
+            "name": "Ferry Setiawan",
+            "role": "Ketua Umum Apkrindo DPD Jatim"
+          }
+        ],
+        "moderator": {
+          "name": "Juan Filbert",
+          "role": "MC"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-diamond1",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "Building SOPs That Work for Family Businesses",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Eunike Selomith",
+            "role": "Co-Founder of dr soap, Investor, Marriage Counselor"
+          },
+          {
+            "name": "Tirto",
+            "role": "Direktur PT Cahaya Bukit Perunggu"
+          }
+        ],
+        "moderator": {
+          "name": "Lilin I. Rahardjo",
+          "role": "Strength Architect & Coach"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-diamond2",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "From Self-Growth to Business Growth: Choosing Hustles That Build Real Capacity",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Ferdi Anggriawan",
+            "role": "Global Growth Marketing Lead at Intellect"
+          },
+          {
+            "name": "Luthfan Herdyanto",
+            "role": "Co Founder Explore Surabaya"
+          }
+        ],
+        "moderator": {
+          "name": "Syamsul Qomar",
+          "role": "Founder & CEO of Agendakota"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s1-diamond3",
+        "sessionNumber": 1,
+        "time": "10:00-10:50",
+        "timeStart": "10:00",
+        "timeEnd": "10:50",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "The Art of Being Seen: Voice, Vulnerability, and Creative Presence",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "In Her View by Pancatera",
+            "role": "Podcaster"
+          }
+        ],
+        "moderator": {
+          "name": "Elisabeth Glory",
+          "role": "Founder of Verite Project"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-origin",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Strategic Influence: How Young Professionals & Entrepreneurs Win Without Formal Authority",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Ferry Wirawan Tedja",
+            "role": "CEO of Samahita Wirotama"
+          }
+        ],
+        "moderator": {
+          "name": "Flavia Sungkit",
+          "role": "Organizational Psychologist & Founder of Ikigai Consulting"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-crystal1",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "Loyalty That Lasts: Building Strong Customer Relationships",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Hiroshi Nishio",
+            "role": "President Director / Chef of Angus House"
+          },
+          {
+            "name": "Michiko Nishio",
+            "role": "Assistant Director of Angus House"
+          }
+        ],
+        "moderator": {
+          "name": "Christina Ribka Thendeano",
+          "role": "Chef, Lifestyle Influencer, and Entrepreneur"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-crystal2",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "What it Takes to Build Business & Innovation for a Sustainable Future",
+        "track": "Bisnis x Art",
+        "speakers": [
+          {
+            "name": "Arief Susanto",
+            "role": "Founder & CEO Dus Duk Duk"
+          },
+          {
+            "name": "Celia Siura",
+            "role": "Founder of Bumbi"
+          },
+          {
+            "name": "Erwin Azali",
+            "role": "CEO of GLOBE Rent A Car Group"
+          }
+        ],
+        "moderator": {
+          "name": "Albajili Gading Paramanandana",
+          "role": "Partner Development Lead - KTM Solutions"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-crystal3",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "Stop Waiting to Feel Ready: Turning Confusion Into Action",
+        "track": "Mental Health",
+        "speakers": [
+          {
+            "name": "Jihan Amirah",
+            "role": "Founder of In Our Twenties"
+          }
+        ],
+        "moderator": {
+          "name": "Ounu Zakiy Sukaton",
+          "role": "Assistant Professor of Linguistics Courses at Ma Chung University"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-crystal45",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "The Next Founders Playbook: Why Founders Need a Space to Test, Learn, and Grow",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Edric Chandra",
+            "role": "Program Initiator DSC"
+          }
+        ],
+        "moderator": {
+          "name": "Indra Tan",
+          "role": "Operations Manager of Soluchain.id"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-diamond1",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "The Spirit Of Omakase, The Art Of Hospitality",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Yeremia Abraham",
+            "role": "Chef of The Abe's"
+          },
+          {
+            "name": "Hendry",
+            "role": "Citrus Lee"
+          }
+        ],
+        "moderator": {
+          "name": "Antarizkia Riris",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-diamond2",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "Business Next Leap: Scaling Local Impact Through Entrepreneurial Ecosystems",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Yosia Prawito Utomo Sugialam",
+            "role": "CEO PT Pakar Digital Global (PAPER.ID)"
+          },
+          {
+            "name": "Winston Utomo",
+            "role": "Founder & CEO of IDN"
+          }
+        ],
+        "moderator": {
+          "name": "Stefy Santoso",
+          "role": "Director of Entrepreneur Experience at Endeavor Indonesia"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s2-diamond3",
+        "sessionNumber": 2,
+        "time": "11:00-11:50",
+        "timeStart": "11:00",
+        "timeEnd": "11:50",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "Coming Soon",
+        "track": "Policy Making",
+        "speakers": [
+          {
+            "name": "Coming Soon",
+            "role": "Coming Soon"
+          }
+        ],
+        "moderator": {
+          "name": "Coming Soon",
+          "role": "Coming Soon"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-origin",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Beyond Import: Turning Global Supply Chains into Local Business Advantage",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Dr Ricky, S.E., M.R.E., CFP®",
+            "role": "Dean of the Faculty of Teacher Education - Petra Christian University"
+          },
+          {
+            "name": "Alfin Vado Fransen",
+            "role": "President of JCI East Java & PT. AVF Procurement Director"
+          }
+        ],
+        "moderator": {
+          "name": "Yazerlin Nadila Balqis",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-crystal1",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "Banking & Fintech for Youth: What You Need to Learn",
+        "track": "Teknologi",
+        "speakers": [
+          {
+            "name": "Dr. Rico Tedyono",
+            "role": "Co-Founder & Chief Operating Officer (COO) of Komunal Fintech"
+          }
+        ],
+        "moderator": {
+          "name": "Nico Abiawan",
+          "role": "Business Enterprise Partnership of DOKU"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-crystal2",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "The Cost of Not Protecting Your Brand Legacy",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Benny Muliawan",
+            "role": "Konsultan Hak Kekayaan Intelektual dan Founder of BNL Patent"
+          },
+          {
+            "name": "Andriew Budiman",
+            "role": "Principal of Butawarna studio & Chairman of ADGI SUB"
+          }
+        ],
+        "moderator": {
+          "name": "Reno Bahelwan Miazaki",
+          "role": "Brand Consultant at Miazaki, Founder of Sharing is Growing"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-crystal3",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "The Art of Yaping: Turning Everyday Stories into Content People Actually Listen To",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Stephanie Regina",
+            "role": "Founder & CEO of Haloka Group"
+          }
+        ],
+        "moderator": {
+          "name": "Chadit",
+          "role": "Founder & Director of Noah Agency"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-crystal45",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "How to be Hyperlocal Content Creator",
+        "track": "Content",
+        "speakers": [
+          {
+            "name": "Andy Gondowijoyo",
+            "role": "Founder of info_surabaya"
+          },
+          {
+            "name": "Koko Feliks",
+            "role": "Content Creator @kokofeliks & Founder of @LIFEATSUROBOYO, @LIFEAT.JKT, @LIFEATMARRIAGE"
+          }
+        ],
+        "moderator": {
+          "name": "Harits Darmawan",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-diamond1",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "Digital Detox or Digital Balance? Rethinking Focus in Modern Life",
+        "track": "Mental Health",
+        "speakers": [
+          {
+            "name": "Audrey Maximillian Herli",
+            "role": "Co-founder of Riliv"
+          },
+          {
+            "name": "Mayo Falmonti",
+            "role": "Protocol Afro Bassist-Manager and Turtle Trail Founder"
+          }
+        ],
+        "moderator": {
+          "name": "Ning Zelyne",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-diamond2",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "Thriving Business with Community: From B2C to B2Community",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Rico Alexander",
+            "role": "Business Coach, Founder of PlazaKamera and Winmax Property"
+          },
+          {
+            "name": "Wishnu Aji",
+            "role": "Director of Felia Tour & Founder of Suka Baca Book Club"
+          }
+        ],
+        "moderator": {
+          "name": "Cecilia Dewi",
+          "role": "Master of Ceremony, Content Creator, Womenpreneur"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s3-diamond3",
+        "sessionNumber": 3,
+        "time": "13:30-14:20",
+        "timeStart": "13:30",
+        "timeEnd": "14:20",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "Beyond Viral: Building a Creator Career That Actually Lasts",
+        "track": "Content",
+        "speakers": [
+          {
+            "name": "Andy Sugar",
+            "role": "CEO of PT KOKONYA ANAK SURABAYA"
+          },
+          {
+            "name": "Evelyn Hutani",
+            "role": "Actor, Content Creator & Public Speaker"
+          }
+        ],
+        "moderator": {
+          "name": "Kohamsiong - Robby Sanjaya",
+          "role": "Founder Podkesdok"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-origin",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Growing Business: From Vendor to Experience Producer",
+        "track": "Teknologi",
+        "speakers": [
+          {
+            "name": "Akbar Maulana Sugianto",
+            "role": "CEO of LZY"
+          },
+          {
+            "name": "Muhammad Ali Fikri",
+            "role": "CEO of PT Molca Teknologi Nusantara"
+          }
+        ],
+        "moderator": {
+          "name": "Jessie Monika",
+          "role": "Playwright/Resident Writer, Petra Theatre"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-crystal1",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "From Visual Taste to Creative Direction: Building Work People Remember",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Fakhruddin Ar'razi",
+            "role": "Managing Director of Mahavisual"
+          }
+        ],
+        "moderator": {
+          "name": "Edwin Tranggono",
+          "role": "Creative Director of Middleform Design Studio"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-crystal2",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "Designing a Meaningful Life with Ikigai: Beyond Work and Achievement",
+        "track": "Mental Health",
+        "speakers": [
+          {
+            "name": "Flavia Sungkit",
+            "role": "Organizational Psychologist & Founder of Ikigai Consulting"
+          }
+        ],
+        "moderator": {
+          "name": "Tegar Prasetiyo",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-crystal3",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "Multidisciplinary by Nature: Turning Creative Range into Creative Value",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Popo Mangun",
+            "role": "Artist"
+          }
+        ],
+        "moderator": {
+          "name": "Alamanda",
+          "role": "Artworker at @artchemist.id"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-crystal45",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "Don't Just Create Content, Build What You Can Own",
+        "track": "Bisnis x Art & Culture",
+        "speakers": [
+          {
+            "name": "Aji Pratomo",
+            "role": "Founder & Group CEO of INFIA Corp"
+          }
+        ],
+        "moderator": {
+          "name": "Marvin Ade S",
+          "role": "Creative Director of Explore Surabaya, Business Development Middleform Design, Vice Chairman ADGI Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-diamond1",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "The Art of First Impression: How Style, Energy, and Presence Shape Opportunity",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Andreas Pao",
+            "role": "Head stylist of styledbypao fashion stylist and consultant"
+          },
+          {
+            "name": "Deasy Tantra",
+            "role": "Fashionpreneur, Founder & Creative Director of Deasy Tantra Studio & Bridal, Kinkami, and Benang Emas Studio Tantra"
+          }
+        ],
+        "moderator": {
+          "name": "Griselda Sampurno",
+          "role": "Master of Ceremonies & Social Media Strategist"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-diamond2",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "Beyond Good Taste: Choosing Between Product, Brand, and Restaurant in F&B",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Jeffry Lukito",
+            "role": "Founder of Korté Chocolate"
+          },
+          {
+            "name": "Ajeng Fatima Almasyhur",
+            "role": "COO of Amagi Group - Corica Pastries & Chao Phraya"
+          }
+        ],
+        "moderator": {
+          "name": "Regina Siddharta",
+          "role": "Minutes of Manager"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s4-diamond3",
+        "sessionNumber": 4,
+        "time": "14:30-15:20",
+        "timeStart": "14:30",
+        "timeEnd": "15:20",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "Local Taste, Global Habit: The Future of Indonesian Beverages",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Andanu Prasetyo",
+            "role": "Founder & CEO of Toko Kopi Tuku"
+          },
+          {
+            "name": "Stephen Walla",
+            "role": "President Director PT Jamu IBOE Jaya"
+          }
+        ],
+        "moderator": {
+          "name": "Christofel Angelo",
+          "role": "CEO of JCK Enterprise & CMO of Ejji Coffee Indonesia"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-origin",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Reinventing Real Estate Marketing through Digital Innovation",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Theo William",
+            "role": "CEO of DB REAL ESTATE INDONESIA"
+          },
+          {
+            "name": "Dicky Candra Jaya",
+            "role": "COO & Founder of DB Real Estate Indonesia"
+          },
+          {
+            "name": "Parama Suteja",
+            "role": "Educational Content Creator, Partner at Yanson Property & Palmara Studio"
+          }
+        ],
+        "moderator": {
+          "name": "Yosua Ivan",
+          "role": "Creative Director of UBS GOLD"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-crystal1",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "Hidden Gems: Finding Opportunities Others Never See",
+        "track": "Teknologi",
+        "speakers": [
+          {
+            "name": "Cynthia Haryono",
+            "role": "Co-Owner of Saudara AI"
+          }
+        ],
+        "moderator": {
+          "name": "Stephanie Regina",
+          "role": "Founder & CEO Haloka Group"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-crystal2",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "How to Scale Street Food Business?",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Bimo",
+            "role": "Owner of Depot Terasa Nikmat"
+          },
+          {
+            "name": "Pandu Priambodo",
+            "role": "Founder of Toko Roti Aren"
+          }
+        ],
+        "moderator": {
+          "name": "Diko Putranto",
+          "role": "Producer of Podcast Mendoan & Digital Content Creator"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-crystal3",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "When Storytelling Becomes Your Strongest Asset",
+        "track": "Content",
+        "speakers": [
+          {
+            "name": "Cheryl Gunawan",
+            "role": "Chef & Content Creator"
+          },
+          {
+            "name": "Govinda Rumi",
+            "role": "Photographer / Founder of We Are GRAF & Fill the Frame"
+          }
+        ],
+        "moderator": {
+          "name": "Niken Sasadhara, dr.",
+          "role": "Medical Doctor, Lecturer"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-crystal45",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "Being Childlike not Childish: Future Proofing Your Career",
+        "track": "Mental Health",
+        "speakers": [
+          {
+            "name": "Watiek Ideo",
+            "role": "Founder of @ideokids.id"
+          },
+          {
+            "name": "Baby Amelia",
+            "role": "Professional Skills Mentor at Apple Developer Academy @ UC, Surabaya"
+          }
+        ],
+        "moderator": {
+          "name": "Devita Lesmana",
+          "role": "Content Creator"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-diamond1",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "Designing Inside Out: Interior, Experience and Event",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Ruth Nathania",
+            "role": "Founder of MTG Lab & Spacive"
+          },
+          {
+            "name": "Ardie Yapola",
+            "role": "CEO of Beta Design studio"
+          }
+        ],
+        "moderator": {
+          "name": "Elvina Goey",
+          "role": "Founder of POLKI Indonesia"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-diamond2",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "UMKM Go Digital Playbook",
+        "track": "Teknologi",
+        "speakers": [
+          {
+            "name": "Sitti Raisya Fitri E",
+            "role": "Co-Founder & CCO of Kasir Pintar"
+          }
+        ],
+        "moderator": {
+          "name": "Ahmad Darul Fikri Khowas",
+          "role": "QA/QC Manager of PT Fairpack Indonesia (Nestle)"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s5-diamond3",
+        "sessionNumber": 5,
+        "time": "15:30-16:20",
+        "timeStart": "15:30",
+        "timeEnd": "16:20",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "From Zero to Startup: What Really Happened Inside YouthUp Business Camp",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Stephanie Wibisana",
+            "role": "Co Founder of YouthUp"
+          },
+          {
+            "name": "Fanni Susilo",
+            "role": "Co Founder of Youth Up and Artisan Market. President Commissioner of PT Sekar Laut"
+          },
+          {
+            "name": "Isaac Munandar",
+            "role": "Co-Founder & CEO of MAXY AI"
+          },
+          {
+            "name": "Tjahjono Haryono",
+            "role": "President Director of PT Pangan Lestari"
+          },
+          {
+            "name": "HealthGuard by ITS",
+            "role": ""
+          }
+        ],
+        "moderator": {
+          "name": "Risa Santoso",
+          "role": "Rektor Institut Asia Malang"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-origin",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Winning the Market Through Data-Driven Marketing",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "William Sudhana",
+            "role": "CEO of vosFoyer & Builder Kumpul Leaders"
+          }
+        ],
+        "moderator": {
+          "name": "Yessie Natasia",
+          "role": "Founder of YORRI"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-crystal1",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "Before You Open the Next Branch: Avoiding the Mistakes That Break Growing Businesses",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Richard Handiwiyanto",
+            "role": "Managing Partner of Handiwiyanto Law Office"
+          },
+          {
+            "name": "Andrew Prasetya Goenardi",
+            "role": "Founder & CEO of TITIK KOMA"
+          }
+        ],
+        "moderator": {
+          "name": "Septian Setiadi",
+          "role": "Content Creator, Manager at DB Real Estate Indonesia"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-crystal2",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "Impact That Actually Reaches People: Building Movements from Real Needs",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Hana Amalia Vandayani",
+            "role": "Founder of Yayasan Pondok Kasih"
+          },
+          {
+            "name": "Lailani Fitrah Ramadhani",
+            "role": "Puteri Indonesia DKI Jakarta 6 2025 & Owner Brand Parfum Sajak Harum"
+          }
+        ],
+        "moderator": {
+          "name": "I Made Arga",
+          "role": "Community & AI developer"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-crystal3",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "The Power of Childhood Stories: Why Childhood, Family and Everyday Life Still Matter",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Reda Gaudiamo",
+            "role": "Writer, Musician - UN Champion for Digital Literacy in Indonesia"
+          }
+        ],
+        "moderator": {
+          "name": "Stephanie Waringga Evan",
+          "role": "Content Creator - Mom of 3"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-crystal45",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "The Do's and Dont's of Your Investor",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Lie Luther",
+            "role": "Co-Founder of Common Grounds Surabaya"
+          },
+          {
+            "name": "Matthew Samudro",
+            "role": "Content Creator"
+          }
+        ],
+        "moderator": {
+          "name": "Andre Harrera",
+          "role": "Content Creator & Community Builder"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-diamond1",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "The Business of Being Well: When Sport Becomes Lifestyle, Community, and Industry",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Niken Sasadhara, dr.",
+            "role": "Medical Doctor, Lecturer"
+          },
+          {
+            "name": "Donny Ardy Kusuma",
+            "role": "Sport Scientist, Director Center of Excellence - Sport and Exercise Research Center, UNESA"
+          },
+          {
+            "name": "Leani Ratri Oktila",
+            "role": "Atlet Parabadminton Indonesia"
+          }
+        ],
+        "moderator": {
+          "name": "Rapha Natanael",
+          "role": "Host & Voice Over Artist"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-diamond2",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "From Consumer City to Curator City: Why Local Taste Matters",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Hadi Ismanto",
+            "role": "CEO of New Media Folder (MANUAL, ZOU)"
+          }
+        ],
+        "moderator": {
+          "name": "Luthfan Herdyanto",
+          "role": "Co-Founder of Explore Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s6-diamond3",
+        "sessionNumber": 6,
+        "time": "16:30-17:20",
+        "timeStart": "16:30",
+        "timeEnd": "17:20",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "Love That Grows Up: Building Relationships with Emotional Maturity",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Essly The",
+            "role": "Writer dan Content Creator"
+          },
+          {
+            "name": "Agustinus Lee Martin",
+            "role": "Founder of SLINGSHOT COMMUNITY"
+          }
+        ],
+        "moderator": {
+          "name": "Henny Adisumarto",
+          "role": "Writer & Podcaster"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-origin",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Room Origin",
+        "roomShort": "Origin",
+        "title": "Finding Your Visual Voice: Turning Personal POV to Stories That Sells",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Royes",
+            "role": "3d Artist / Animator"
+          },
+          {
+            "name": "Kelvin Morris Wirjohandjojo",
+            "role": "Documentary Cinematographer"
+          }
+        ],
+        "moderator": {
+          "name": "Andaka Pramadya",
+          "role": "Author of @gaung.kosong"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-crystal1",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Crystal 1",
+        "roomShort": "Crystal 1",
+        "title": "The Invisible Business of Sustainability: Making Waste Management Work at Scale",
+        "track": "Bisnis",
+        "speakers": [
+          {
+            "name": "Ernest C Layman",
+            "role": "CEO and Co-Founder of Rekosistem"
+          },
+          {
+            "name": "Syukriyatun Ni'amah - Niam",
+            "role": "CEO & Founder of Robries"
+          }
+        ],
+        "moderator": {
+          "name": "Angie Ayu Mujahida",
+          "role": "Brand Marketing"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-crystal2",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Crystal 2",
+        "roomShort": "Crystal 2",
+        "title": "Beyond Farm to Table: Building Trust Through Supply Chain",
+        "track": "FnB",
+        "speakers": [
+          {
+            "name": "Thea Irena Wirasasmita",
+            "role": "CEO of Agrosari Farm"
+          },
+          {
+            "name": "Chef Tius Faisal Martadinata",
+            "role": "Chef Owner of Steaklab Steakhouse Surabaya"
+          }
+        ],
+        "moderator": {
+          "name": "Dony Abrianto",
+          "role": "Cak & Ning Surabaya"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-crystal3",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Crystal 3",
+        "roomShort": "Crystal 3",
+        "title": "Breaking the Barrier: Leading a Multidisciplinary Team to Tackle Impossible Projects",
+        "track": "Art & Culture",
+        "speakers": [
+          {
+            "name": "Nyoman Nuarta",
+            "role": "Sculptor"
+          }
+        ],
+        "moderator": {
+          "name": "Dr Ricky, S.E., M.R.E., CFP®",
+          "role": "Dean of the Faculty of Teacher Education - Petra Christian University"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-crystal45",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Crystal 4 & 5",
+        "roomShort": "Crystal 4 & 5",
+        "title": "Smart Money Moves for Small Business Owners",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Coach Ferry Gunawan",
+            "role": "CEO #1SUPERMENTOR"
+          },
+          {
+            "name": "Christofel Angelo",
+            "role": "CEO of JCK Enterprise & CMO of Ejji Coffee Indonesia"
+          }
+        ],
+        "moderator": {
+          "name": "Vina Tania",
+          "role": "Financial Consultant"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-diamond1",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Diamond 1",
+        "roomShort": "Diamond 1",
+        "title": "Discipline over Motivation: How to Build Habit that Lasts",
+        "track": "Self Development",
+        "speakers": [
+          {
+            "name": "Natasya Limano",
+            "role": "Co-founder Bloom360 dan BloomLab"
+          },
+          {
+            "name": "Tan Melissa",
+            "role": "Owner of PT Nison, Owner of KX Pilates Surabaya West, Co-Founder of Melon Cup and Co-Owner of the coming soon Melon Arena"
+          }
+        ],
+        "moderator": {
+          "name": "Alisa Putri",
+          "role": "Marketing Manager of White Diary Indonesia"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-diamond2",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Diamond 2",
+        "roomShort": "Diamond 2",
+        "title": "How to Start with What You Have? Less Editing, More Storytelling",
+        "track": "Content",
+        "speakers": [
+          {
+            "name": "Erick Limanhadi",
+            "role": "Founder and Creative Director of Ericklim Photography"
+          },
+          {
+            "name": "Nadia Leona",
+            "role": "Creative Project Manager & Founder of LOAD PROJECT. STYLIST & CONCEPT DEVELOPER @bynadialeona"
+          }
+        ],
+        "moderator": {
+          "name": "Fritzca Wibisono",
+          "role": "Founder of SAMAYA Planning & Build"
+        },
+        "status": "confirmed"
+      },
+      {
+        "id": "d2-s7-diamond3",
+        "sessionNumber": 7,
+        "time": "17:30-18:20",
+        "timeStart": "17:30",
+        "timeEnd": "18:20",
+        "room": "Diamond 3",
+        "roomShort": "Diamond 3",
+        "title": "The New Local Media Playbook: Turning Community Attention into Everyday Impact",
+        "track": "Content",
+        "speakers": [
+          {
+            "name": "Chandra Jayatama Tedjadipura",
+            "role": "Producer Podcast The Mind Behind & Tim Grafis Suara Surabaya"
+          }
+        ],
+        "moderator": {
+          "name": "Hendra Hutagalung",
+          "role": "Lead Of Commercial Creative Suara Surabaya Media/ Announcer/ Voice Over Talent"
+        },
+        "status": "confirmed"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-08-08",
+    "dayLabel": "Conference",
+    "sessions": [
+      {
+        "id": "d3-c0",
+        "sessionNumber": 0,
+        "time": "10:00-10:30",
+        "timeStart": "10:00",
+        "timeEnd": "10:30",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The Next Leap: Clarity, Courage, and What Comes Next",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Saskia Tessy",
+            "role": "Co-Founder of Ideafest Sub"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c1",
+        "sessionNumber": 1,
+        "time": "10:30-11:00",
+        "timeStart": "10:30",
+        "timeEnd": "11:00",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The New Rules of Content Creation: Authenticity, Algorithms, and Agency Insight",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Stephanie Regina",
+            "role": "Founder & CEO of Haloka Group"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c2",
+        "sessionNumber": 2,
+        "time": "11:00-11:30",
+        "timeStart": "11:00",
+        "timeEnd": "11:30",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "Stories That Hold Us Together: The Courage to Listen",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "In Her View by Pancatera",
+            "role": "Podcaster"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c3",
+        "sessionNumber": 3,
+        "time": "11:30-12:00",
+        "timeStart": "11:30",
+        "timeEnd": "12:00",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The Art of Entertainment: Crafting Moments to Be Remembered",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Dipa Andika",
+            "role": "Chief Commercial Officer of HAHAHA CORP"
+          }
+        ],
+        "status": "confirmed",
+        "moderator": {
+          "name": "Ben Soebiakto",
+          "role": "Executive Producer BASE Entertainment"
+        }
+      },
+      {
+        "id": "d3-c4",
+        "sessionNumber": 4,
+        "time": "12:00-12:30",
+        "timeStart": "12:00",
+        "timeEnd": "12:30",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "Why Every Business Needs To Think Like Media",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Winston Utomo",
+            "role": "Founder & CEO of IDN"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c5",
+        "sessionNumber": 5,
+        "time": "13:30-14:15",
+        "timeStart": "13:30",
+        "timeEnd": "14:15",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The Financial Reset: How to Rebuild Yourself After Your Worst Money Decision",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Theo Derick",
+            "role": "Founder of Acrobyte Group and Grind Theory"
+          },
+          {
+            "name": "Daniel Santoso",
+            "role": "IP Producer of UBS Gold"
+          }
+        ],
+        "status": "confirmed",
+        "moderator": {
+          "name": "Billy Tanhadi",
+          "role": "Entrepreneur & Creator"
+        }
+      },
+      {
+        "id": "d3-c6",
+        "sessionNumber": 6,
+        "time": "14:15-14:45",
+        "timeStart": "14:15",
+        "timeEnd": "14:45",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "If You Don't Know Where to Start: 3 Steps to Take Your Next Leap Now",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Jihan Amirah",
+            "role": "Founder of In Our Twenties"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c7",
+        "sessionNumber": 7,
+        "time": "14:45-15:15",
+        "timeStart": "14:45",
+        "timeEnd": "15:15",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The Next Leap Starts at Home: Curating Local Potential with a Fresh Perspective",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Hadi Ismanto",
+            "role": "CEO of New Media Folder (MANUAL, ZOU)"
+          }
+        ],
+        "status": "confirmed",
+        "moderator": {
+          "name": "William Sudhana",
+          "role": "CEO of vosFoyer & Builder Kumpul Leaders"
+        }
+      },
+      {
+        "id": "d3-c8",
+        "sessionNumber": 8,
+        "time": "15:15-15:45",
+        "timeStart": "15:15",
+        "timeEnd": "15:45",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "How to Turn Good Taste to Good Business",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Matthew Samudro",
+            "role": "Content Creator"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c9",
+        "sessionNumber": 9,
+        "time": "15:45-16:15",
+        "timeStart": "15:45",
+        "timeEnd": "16:15",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "Soft Stories, Strong Impact: The Courage to Create Work That Lasts Across Generation",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Reda Gaudiamo",
+            "role": "Writer, Musician - UN Champion for Digital Literacy in Indonesia"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c10",
+        "sessionNumber": 10,
+        "time": "16:15-16:45",
+        "timeStart": "16:15",
+        "timeEnd": "16:45",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "Intellectual Property is the Future of Indonesia",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Aji Pratomo",
+            "role": "Founder & Group CEO of INFIA Corp"
+          }
+        ],
+        "status": "confirmed",
+        "moderator": {
+          "name": "Maghfiro Ridho M",
+          "role": "Initiator IdeaFriends by Ideafest"
+        }
+      },
+      {
+        "id": "d3-c11",
+        "sessionNumber": 11,
+        "time": "16:45-17:15",
+        "timeStart": "16:45",
+        "timeEnd": "17:15",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "Can Artists Make a Living? Value, Standards, and the Courage to Grow",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Popo Mangun",
+            "role": "Artist"
+          },
+          {
+            "name": "Fakhruddin Ar'razi",
+            "role": "Managing Director of Mahavisual"
+          }
+        ],
+        "status": "confirmed"
+      },
+      {
+        "id": "d3-c12",
+        "sessionNumber": 12,
+        "time": "17:15-17:45",
+        "timeStart": "17:15",
+        "timeEnd": "17:45",
+        "room": "Main Hall",
+        "roomShort": "Main Hall",
+        "title": "The Discipline Behind Sustainable Growth: What Founders Must Build Before They Scale",
+        "track": "Conference",
+        "speakers": [
+          {
+            "name": "Andanu Prasetyo",
+            "role": "Founder & CEO of Toko Kopi Tuku"
+          },
+          {
+            "name": "Ria Ellysa",
+            "role": "CEO of PT Pangan Adil Sehat"
+          }
+        ],
+        "status": "confirmed",
+        "moderator": {
+          "name": "Edric Chandra",
+          "role": "Program Initiator of DSC"
+        }
+      }
+    ]
+  }
 ]
