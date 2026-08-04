@@ -2,7 +2,10 @@
 
 import { useEffect } from "react";
 import { getTrackStyle } from "@/data/tracks";
-import type { SpeakerEntry } from "@/lib/types";
+import sessionsData from "@/data/sessions.json";
+import type { SpeakerEntry, DayData } from "@/lib/types";
+
+const allSessions = (sessionsData as DayData[]).flatMap((d) => d.sessions);
 
 interface SpeakerModalProps {
   speaker: SpeakerEntry | null;
@@ -64,6 +67,39 @@ export function SpeakerModal({ speaker, onClose }: SpeakerModalProps) {
               {speaker.bio.trim() || "Bio coming soon"}
             </p>
           </div>
+
+          {/* Speaker sessions */}
+          {(() => {
+            const speakerSessions = allSessions.filter((s) =>
+              speaker.sessionIds.includes(s.id)
+            );
+            if (!speakerSessions.length) return null;
+            return (
+              <div>
+                <h3 className="text-sm font-bold uppercase tracking-wide text-[#5C1A2B]">Sessions</h3>
+                <div className="mt-3 space-y-2">
+                  {speakerSessions.map((s) => {
+                    const style = getTrackStyle(s.track);
+                    return (
+                      <div key={s.id} className={`rounded-xl border ${style.border} ${style.bg} p-3`}>
+                        <div className="flex items-center gap-2 mb-1">
+                          <span className={`h-2 w-2 rounded-full ${style.dot}`} />
+                          <span className={`text-[10px] font-bold uppercase ${style.text}`}>{s.track}</span>
+                        </div>
+                        <p className="text-sm font-bold text-gray-900 leading-snug">{s.title}</p>
+                        <div className="mt-1 flex flex-wrap gap-x-3 text-xs text-gray-500">
+                          <span>🕒 {s.time}</span>
+                          <span>📍 {s.room}</span>
+                          {s.day && <span>📅 Day {s.day}</span>}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })()}
+
           <div>
             <h3 className="text-sm font-bold uppercase tracking-wide text-[#5C1A2B]">Tracks</h3>
             <div className="mt-2 flex flex-wrap gap-2">
