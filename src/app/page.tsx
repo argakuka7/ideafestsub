@@ -7,6 +7,8 @@ import { SessionModal } from "@/components/schedule/SessionModal";
 import { TimeSlot } from "@/components/schedule/TimeSlot";
 import { TrackFilter } from "@/components/schedule/TrackFilter";
 import sessionsData from "@/data/sessions.json";
+import { Blob } from "@/components/motifs/Blob";
+import { SmallLeapBadge } from "@/components/SmallLeapBadge";
 import type { DayData, Session } from "@/lib/types";
 
 const scheduleDays = sessionsData as DayData[];
@@ -80,12 +82,14 @@ export default function Home() {
     <div className="mx-auto max-w-7xl px-4 py-7 sm:px-6 sm:py-10">
       <div className="flex flex-col gap-6">
         <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
-          <div>
-            <p className="text-sm font-black uppercase tracking-[0.18em] text-[#E91E8C]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
-            <h1 className="mt-1 text-3xl font-black tracking-tight text-[#1A1A1A] sm:text-4xl">Find your next big idea.</h1>
-            <p className="mt-2 max-w-xl text-sm leading-relaxed text-gray-500 sm:text-base">
+          <div className="relative">
+            <Blob className="pointer-events-none absolute -top-12 -right-12 -z-10 h-44 w-44 opacity-90 sm:h-56 sm:w-56" color="#E91E8C" />
+            <p className="text-sm font-black uppercase tracking-[0.18em] text-[var(--pink)]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
+            <h1 className="mt-2 font-display text-5xl leading-[0.95] tracking-tight text-[var(--navy)] sm:text-7xl">Find your next<br />big idea.</h1>
+            <p className="mt-4 max-w-xl text-base leading-relaxed text-[#1A1A1A]/70 sm:text-lg">
               Explore conversations across eight rooms, then save the talks you do not want to miss.
             </p>
+            <div className="mt-5"><SmallLeapBadge /></div>
           </div>
           <DayToggle activeDay={activeDay} days={scheduleDays} onChange={setActiveDay} />
         </div>

@@ -7,10 +7,7 @@ export function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex h-14 items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-2" aria-label="IDEATALKS schedule">
-            <span className="text-xl font-black tracking-tight">
-              <span className="text-[#FF3B3B]">IDEA</span>
-              <span className="text-[#8338EC]">TALKS</span>
-            </span>
+            <span className="font-display text-2xl tracking-tight lowercase text-[var(--navy)]">ideafest</span>
           </Link>
           <Navigation />
         </div>
