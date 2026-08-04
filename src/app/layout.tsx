@@ -40,7 +40,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`scroll-smooth ${inter.variable} ${anton.variable}`}>
-      <body className="min-h-screen bg-transparent font-sans text-[#F5F1E8]">
+      <body className="min-h-screen overflow-x-hidden bg-transparent font-sans text-[#F5F1E8]">
         <SilkBackground />
         <div className="relative z-10 flex min-h-screen flex-col">
           <Header />
