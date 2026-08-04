@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <footer className="fixed bottom-0 left-0 right-0 z-40 bg-[var(--navy)] text-white">
+    <footer className="bg-[var(--navy)] text-white">
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-x-4 gap-y-1 px-4 py-2 sm:px-6">
         <span className="text-[11px] text-white/70">
           IDEAFEST SUB 2026 · The Next Leap
