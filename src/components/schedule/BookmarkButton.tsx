@@ -11,7 +11,7 @@ interface BookmarkButtonProps {
 export function BookmarkButton({ active, className = "", onClick }: BookmarkButtonProps) {
   return (
     <button
-      aria-label={active ? "Remove bookmark" : "Bookmark session"}
+      aria-label={active ? "Remove bookmark" : "Add bookmark"}
       aria-pressed={active}
       className={`inline-flex h-9 w-9 items-center justify-center rounded-full border transition focus:outline-none focus:ring-4 focus:ring-[#E91E8C]/20 ${
         active

@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect } from "react";
+import { BookmarkButton } from "@/components/schedule/BookmarkButton";
 import { getTrackStyle } from "@/data/tracks";
+import { useBookmarks } from "@/lib/useBookmarks";
 import sessionsData from "@/data/sessions.json";
 import type { SpeakerEntry, DayData } from "@/lib/types";
 
@@ -13,6 +15,7 @@ interface SpeakerModalProps {
 }
 
 export function SpeakerModal({ speaker, onClose }: SpeakerModalProps) {
+  const { isBookmarked, toggleBookmark } = useBookmarks();
   useEffect(() => {
     if (!speaker) return;
 
@@ -47,6 +50,13 @@ export function SpeakerModal({ speaker, onClose }: SpeakerModalProps) {
           >
             <span aria-hidden="true">×</span>
           </button>
+          <div className="absolute right-16 top-4">
+            <BookmarkButton
+              active={isBookmarked(speaker.id)}
+              className="border-white/20 bg-white/15 text-white hover:border-white/40 hover:bg-white/25 hover:!text-white"
+              onClick={() => toggleBookmark(speaker.id)}
+            />
+          </div>
           <div className="flex items-center gap-4 pr-9">
             <img
               src={speaker.avatar}
