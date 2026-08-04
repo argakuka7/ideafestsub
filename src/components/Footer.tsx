@@ -15,14 +15,6 @@ export function Footer() {
           >
             @argakuka
           </a>
-          <a
-            href="https://argakuka.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-white transition-colors hover:text-[#FFD60A]"
-          >
-            argakuka.com
-          </a>
         </div>
       </div>
     </footer>
