@@ -168,7 +168,7 @@
     "sessionIds": [
       "d1-s1-diamond2"
     ],
-    "bio": "Andrew Hartono is CEO of NAIL2000, a role he has held since 2010, and CEO of GTS Power Genset since 2017. He also served as 2025 Local President of JCI East Java, pairing industrial-business leadership with youth civic leadership.",
+    "bio": "Andrew Hartono is the CEO of NAIL2000 and GTS POWER GENSET, and served as JCI East Java President 2025. He represents Surabaya’s young business leadership across beauty, power, and community sectors.",
     "bioStatus": "researched"
   },
   {
@@ -324,7 +324,7 @@
     "sessionIds": [
       "d1-s2-crystal3"
     ],
-    "bio": "Emil Elestianto Dardak is Vice Governor of East Java and previously served as Regent of Trenggalek from 2016 to 2019. A public-policy leader with business and academic credentials, he received the Philip Kotler Entrepreneur Award in 2017 and is a prominent voice on regional development and creative-economy issues.",
+    "bio": "Emil Elestianto Dardak is the Vice Governor of East Java, with a background in engineering and public policy. He is known for his focus on innovation, youth empowerment, and regional economic development across East Java.",
     "bioStatus": "researched"
   },
   {
@@ -506,7 +506,7 @@
     "sessionIds": [
       "d1-s3-crystal2"
     ],
-    "bio": "Jiewa Vieri is the founder of INIJIE Food & Travel and INIJIE Academy, with 17 years of experience in social media and entrepreneurship. A food reviewer, blogger and photographer, he won the 2009 Pesta Blogger Award and continues to work in influencer marketing and photography services.",
+    "bio": "Jiewa Vieri is the Founder of INIJIE Food & Travel and INIJIE Academy, one of East Java’s most popular food and travel media platforms. He has built a media brand around culinary exploration and food storytelling.",
     "bioStatus": "researched"
   },
   {
@@ -663,7 +663,7 @@
     "sessionIds": [
       "d1-s4-crystal1"
     ],
-    "bio": "Singgih Susilo Kartono is an Indonesian product designer and the founder of Magno, the wooden-radio brand he launched in 2004, as well as the Spedagi bamboo-bike initiative. A graduate of ITB’s Product Design program, he has received international recognition including the 2008 Japan Good Design Award and 2009 Brit Insurance Design Award, and has used Pasar Papringan to advance village revitalization.",
+    "bio": "Singgih S Kartono is the designer-entrepreneur behind Magno wooden radios, Spedagi Bamboo Bike movement, and Pasar Papringan. His work has earned international recognition for sustainable design and community-driven rural economic revitalization in Central Java.",
     "bioStatus": "researched"
   },
   {
@@ -992,8 +992,8 @@
     "sessionIds": [
       "d2-s1-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of MGW.",
+    "bioStatus": "role-based"
   },
   {
     "id": "adhi-baskoro",
@@ -1005,8 +1005,8 @@
     "sessionIds": [
       "d2-s1-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Digital Ads Specialist at Marcomm Telkomsel Area Jawa Bali.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ong-alfie",
@@ -1018,8 +1018,8 @@
     "sessionIds": [
       "d2-s1-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Ong Alfie is the Co-Founder of Artisan Market, YouthUp, and IdeaFest SUB. He is a key driver of Surabaya’s creative and entrepreneurial ecosystem, connecting local makers, founders, and communities through festivals and programs.",
+    "bioStatus": "researched"
   },
   {
     "id": "lindyawati-limbono",
@@ -1031,8 +1031,8 @@
     "sessionIds": [
       "d2-s1-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co-Founder of Artisan Market, Youth Up and Ideafest Sub.",
+    "bioStatus": "role-based"
   },
   {
     "id": "cakra-daeng",
@@ -1044,8 +1044,8 @@
     "sessionIds": [
       "d2-s1-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co-Founder & CEO of SOD Group.",
+    "bioStatus": "role-based"
   },
   {
     "id": "wulan-anggraini-santoso",
@@ -1057,8 +1057,8 @@
     "sessionIds": [
       "d2-s1-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder littleMamaBento.",
+    "bioStatus": "role-based"
   },
   {
     "id": "mohammad-naufal",
@@ -1070,8 +1070,8 @@
     "sessionIds": [
       "d2-s1-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder & CEO of Carbon Addons.",
+    "bioStatus": "role-based"
   },
   {
     "id": "imelda-velez-harsono",
@@ -1083,8 +1083,8 @@
     "sessionIds": [
       "d2-s1-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Deputy CEO of Samator Indo Gas Tbk.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ghea-novianti",
@@ -1096,8 +1096,8 @@
     "sessionIds": [
       "d2-s1-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dipa-andika",
@@ -1111,8 +1111,8 @@
       "d2-s1-crystal3",
       "d3-c3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Dipa Andika is the Chief Commercial Officer of HAHAHA CORP, the entertainment company behind Indonesia’s popular digital comedy content. He speaks on crafting entertainment moments that resonate with modern audiences.",
+    "bioStatus": "researched"
   },
   {
     "id": "alexander-christian-andrew",
@@ -1124,8 +1124,8 @@
     "sessionIds": [
       "d2-s1-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator & Video Director of Film by Alek & Seed and Scene.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dave-natakusuma-imam-rahardjo",
@@ -1137,8 +1137,8 @@
     "sessionIds": [
       "d2-s1-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of Mantra Group.",
+    "bioStatus": "role-based"
   },
   {
     "id": "juan-filbert",
@@ -1150,8 +1150,8 @@
     "sessionIds": [
       "d2-s1-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, MC.",
+    "bioStatus": "role-based"
   },
   {
     "id": "eunike-selomith",
@@ -1163,8 +1163,8 @@
     "sessionIds": [
       "d2-s1-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co-Founder of dr soap, Investor, Marriage Counselor.",
+    "bioStatus": "role-based"
   },
   {
     "id": "tirto",
@@ -1176,8 +1176,8 @@
     "sessionIds": [
       "d2-s1-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Direktur PT Cahaya Bukit Perunggu.",
+    "bioStatus": "role-based"
   },
   {
     "id": "lilin-i-rahardjo",
@@ -1189,8 +1189,8 @@
     "sessionIds": [
       "d2-s1-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Strength Architect & Coach.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ferdi-anggriawan",
@@ -1202,8 +1202,8 @@
     "sessionIds": [
       "d2-s1-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Global Growth Marketing Lead at Intellect.",
+    "bioStatus": "role-based"
   },
   {
     "id": "luthfan-herdyanto",
@@ -1217,8 +1217,8 @@
       "d2-s1-diamond2",
       "d2-s6-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co Founder Explore Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "syamsul-qomar",
@@ -1230,8 +1230,8 @@
     "sessionIds": [
       "d2-s1-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder & CEO of Agendakota.",
+    "bioStatus": "role-based"
   },
   {
     "id": "in-her-view-by-pancatera",
@@ -1245,8 +1245,8 @@
       "d2-s1-diamond3",
       "d3-c2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Podcaster.",
+    "bioStatus": "role-based"
   },
   {
     "id": "elisabeth-glory",
@@ -1258,8 +1258,8 @@
     "sessionIds": [
       "d2-s1-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of Verite Project.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ferry-wirawan-tedja",
@@ -1271,8 +1271,8 @@
     "sessionIds": [
       "d2-s2-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of Samahita Wirotama.",
+    "bioStatus": "role-based"
   },
   {
     "id": "flavia-sungkit",
@@ -1286,8 +1286,8 @@
       "d2-s2-origin",
       "d2-s4-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Organizational Psychologist & Founder of Ikigai Consulting.",
+    "bioStatus": "role-based"
   },
   {
     "id": "hiroshi-nishio",
@@ -1299,8 +1299,8 @@
     "sessionIds": [
       "d2-s2-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, President Director / Chef of Angus House.",
+    "bioStatus": "role-based"
   },
   {
     "id": "michiko-nishio",
@@ -1312,8 +1312,8 @@
     "sessionIds": [
       "d2-s2-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Assistant Director of Angus House.",
+    "bioStatus": "role-based"
   },
   {
     "id": "christina-ribka-thendeano",
@@ -1325,8 +1325,8 @@
     "sessionIds": [
       "d2-s2-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Chef, Lifestyle Influencer, and Entrepreneur.",
+    "bioStatus": "role-based"
   },
   {
     "id": "arief-susanto",
@@ -1338,8 +1338,8 @@
     "sessionIds": [
       "d2-s2-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder & CEO Dus Duk Duk.",
+    "bioStatus": "role-based"
   },
   {
     "id": "celia-siura",
@@ -1351,8 +1351,8 @@
     "sessionIds": [
       "d2-s2-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of Bumbi.",
+    "bioStatus": "role-based"
   },
   {
     "id": "erwin-azali",
@@ -1364,8 +1364,8 @@
     "sessionIds": [
       "d2-s2-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of GLOBE Rent A Car Group.",
+    "bioStatus": "role-based"
   },
   {
     "id": "albajili-gading-paramanandana",
@@ -1377,8 +1377,8 @@
     "sessionIds": [
       "d2-s2-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Partner Development Lead - KTM Solutions.",
+    "bioStatus": "role-based"
   },
   {
     "id": "jihan-amirah",
@@ -1392,8 +1392,8 @@
       "d2-s2-crystal3",
       "d3-c6"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Jihan Amirah is the Founder of In Our Twenties, a platform and community for young professionals navigating career, finances, and personal growth. She focuses on actionable self-development for Gen Z and millennials.",
+    "bioStatus": "researched"
   },
   {
     "id": "ounu-zakiy-sukaton",
@@ -1405,8 +1405,8 @@
     "sessionIds": [
       "d2-s2-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Assistant Professor of Linguistics Courses at Ma Chung University.",
+    "bioStatus": "role-based"
   },
   {
     "id": "edric-chandra",
@@ -1420,8 +1420,8 @@
       "d2-s2-crystal45",
       "d3-c12"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Edric Chandra is an entrepreneur ecosystem builder and the Program Initiator of Diplomat Success Challenge (DSC), one of Indonesia’s largest entrepreneurship ecosystems. For over 17 years, he has connected entrepreneurs, corporations, governments, and communities, and leads FoundersArena.id to empower founders.",
+    "bioStatus": "researched"
   },
   {
     "id": "indra-tan",
@@ -1433,8 +1433,8 @@
     "sessionIds": [
       "d2-s2-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Operations Manager of Soluchain.id.",
+    "bioStatus": "role-based"
   },
   {
     "id": "yeremia-abraham",
@@ -1446,8 +1446,8 @@
     "sessionIds": [
       "d2-s2-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Chef of The Abe's.",
+    "bioStatus": "role-based"
   },
   {
     "id": "hendry",
@@ -1459,8 +1459,8 @@
     "sessionIds": [
       "d2-s2-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Citrus Lee.",
+    "bioStatus": "role-based"
   },
   {
     "id": "antarizkia-riris",
@@ -1472,8 +1472,8 @@
     "sessionIds": [
       "d2-s2-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "yosia-prawito-utomo-sugialam",
@@ -1485,8 +1485,8 @@
     "sessionIds": [
       "d2-s2-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Yosia Prawito Utomo Sugialam is the CEO of PT Pakar Digital Global (PAPER.ID), an Indonesian B2B procurement and supply chain platform serving SMEs.",
+    "bioStatus": "researched"
   },
   {
     "id": "winston-utomo",
@@ -1500,8 +1500,8 @@
       "d2-s2-diamond2",
       "d3-c4"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Winston Utomo is the Founder & CEO of IDN (IDN Media), Indonesia’s leading media and entertainment technology company for Millennials and Gen Z with over 70 million monthly active users. A USC and Columbia University graduate, he previously worked at Google Singapore before founding IDN in 2014.",
+    "bioStatus": "researched"
   },
   {
     "id": "stefy-santoso",
@@ -1513,8 +1513,8 @@
     "sessionIds": [
       "d2-s2-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Stefy Santoso is the Director of Entrepreneur Experience at Endeavor Indonesia, the global organization supporting high-impact entrepreneurs. She helps scale-up founders access mentorship, capital, and networks.",
+    "bioStatus": "researched"
   },
   {
     "id": "coming-soon",
@@ -1526,8 +1526,8 @@
     "sessionIds": [
       "d2-s2-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Coming Soon.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dr-ricky-s-e-m-r-e-cfp",
@@ -1541,8 +1541,8 @@
       "d2-s3-origin",
       "d2-s7-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Dean of the Faculty of Teacher Education - Petra Christian University.",
+    "bioStatus": "role-based"
   },
   {
     "id": "alfin-vado-fransen",
@@ -1554,8 +1554,8 @@
     "sessionIds": [
       "d2-s3-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, President of JCI East Java & PT. AVF Procurement Director.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dr-rico-tedyono",
@@ -1567,8 +1567,8 @@
     "sessionIds": [
       "d2-s3-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co-Founder & Chief Operating Officer (COO) of Komunal Fintech.",
+    "bioStatus": "role-based"
   },
   {
     "id": "nico-abiawan",
@@ -1580,8 +1580,8 @@
     "sessionIds": [
       "d2-s3-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Business Enterprise Partnership of DOKU.",
+    "bioStatus": "role-based"
   },
   {
     "id": "benny-muliawan",
@@ -1593,8 +1593,8 @@
     "sessionIds": [
       "d2-s3-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Konsultan Hak Kekayaan Intelektual dan Founder of BNL Patent.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andriew-budiman",
@@ -1606,8 +1606,8 @@
     "sessionIds": [
       "d2-s3-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Principal of Butawarna studio & Chairman of ADGI SUB.",
+    "bioStatus": "role-based"
   },
   {
     "id": "reno-bahelwan-miazaki",
@@ -1619,8 +1619,8 @@
     "sessionIds": [
       "d2-s3-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Brand Consultant at Miazaki, Founder of Sharing is Growing.",
+    "bioStatus": "role-based"
   },
   {
     "id": "stephanie-regina",
@@ -1636,8 +1636,8 @@
       "d2-s5-crystal1",
       "d3-c1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Stephanie Regina is the Founder & CEO of Haloka Group, an Indonesian creative and marketing agency. She speaks on the new rules of content creation, authenticity, and how brands can navigate algorithmic media.",
+    "bioStatus": "researched"
   },
   {
     "id": "chadit",
@@ -1649,8 +1649,8 @@
     "sessionIds": [
       "d2-s3-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder & Director of Noah Agency.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andy-gondowijoyo",
@@ -1662,8 +1662,8 @@
     "sessionIds": [
       "d2-s3-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of info_surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "koko-feliks",
@@ -1675,8 +1675,8 @@
     "sessionIds": [
       "d2-s3-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Koko Feliks is a Surabaya-based content creator and the founder of @LIFEATSUROBOYO, @LIFEAT.JKT, and @LIFEATMARRIAGE—popular Instagram accounts curating city lifestyle, food, and relationships. He is a pioneer of hyperlocal content creation in Indonesia.",
+    "bioStatus": "researched"
   },
   {
     "id": "harits-darmawan",
@@ -1688,8 +1688,8 @@
     "sessionIds": [
       "d2-s3-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "audrey-maximillian-herli",
@@ -1701,8 +1701,8 @@
     "sessionIds": [
       "d2-s3-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Audrey Maximillian Herli (Maxi) is the Co-founder of Riliv, a Surabaya-based mental health platform providing online counseling and wellness services. A Forbes 30 Under 30 honoree, he built Riliv from a university project into a funded startup addressing Indonesia’s mental health access gap.",
+    "bioStatus": "researched"
   },
   {
     "id": "mayo-falmonti",
@@ -1714,8 +1714,8 @@
     "sessionIds": [
       "d2-s3-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Protocol Afro Bassist-Manager and Turtle Trail Founder.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ning-zelyne",
@@ -1727,8 +1727,8 @@
     "sessionIds": [
       "d2-s3-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "rico-alexander",
@@ -1740,8 +1740,8 @@
     "sessionIds": [
       "d2-s3-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Business Coach, Founder of PlazaKamera and Winmax Property.",
+    "bioStatus": "role-based"
   },
   {
     "id": "wishnu-aji",
@@ -1753,8 +1753,8 @@
     "sessionIds": [
       "d2-s3-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Director of Felia Tour & Founder of Suka Baca Book Club.",
+    "bioStatus": "role-based"
   },
   {
     "id": "cecilia-dewi",
@@ -1766,8 +1766,8 @@
     "sessionIds": [
       "d2-s3-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Master of Ceremony, Content Creator, Womenpreneur.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andy-sugar",
@@ -1779,8 +1779,8 @@
     "sessionIds": [
       "d2-s3-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of PT KOKONYA ANAK SURABAYA.",
+    "bioStatus": "role-based"
   },
   {
     "id": "evelyn-hutani",
@@ -1792,8 +1792,8 @@
     "sessionIds": [
       "d2-s3-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Actor, Content Creator & Public Speaker.",
+    "bioStatus": "role-based"
   },
   {
     "id": "kohamsiong-robby-sanjaya",
@@ -1805,8 +1805,8 @@
     "sessionIds": [
       "d2-s3-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder Podkesdok.",
+    "bioStatus": "role-based"
   },
   {
     "id": "akbar-maulana-sugianto",
@@ -1818,8 +1818,8 @@
     "sessionIds": [
       "d2-s4-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of LZY.",
+    "bioStatus": "role-based"
   },
   {
     "id": "muhammad-ali-fikri",
@@ -1831,8 +1831,8 @@
     "sessionIds": [
       "d2-s4-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of PT Molca Teknologi Nusantara.",
+    "bioStatus": "role-based"
   },
   {
     "id": "jessie-monika",
@@ -1844,8 +1844,8 @@
     "sessionIds": [
       "d2-s4-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Playwright/Resident Writer, Petra Theatre.",
+    "bioStatus": "role-based"
   },
   {
     "id": "fakhruddin-ar-razi",
@@ -1859,8 +1859,8 @@
       "d2-s4-crystal1",
       "d3-c11"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Fakhruddin Ar’razi is the Managing Director of Mahavisual, a leading Indonesian visual arts and creative studio. He advocates for professional standards and sustainable careers for artists in Indonesia.",
+    "bioStatus": "researched"
   },
   {
     "id": "tegar-prasetiyo",
@@ -1872,8 +1872,8 @@
     "sessionIds": [
       "d2-s4-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "popo-mangun",
@@ -1887,8 +1887,8 @@
       "d2-s4-crystal3",
       "d3-c11"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Popo Mangun is an Indonesian artist known for his distinctive visual style. He speaks on the intersection of fine art, creative value, and whether artists can build sustainable livelihoods in today’s market.",
+    "bioStatus": "researched"
   },
   {
     "id": "aji-pratomo",
@@ -1902,8 +1902,8 @@
       "d2-s4-crystal45",
       "d3-c10"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Aji Pratomo is the Founder & Group CEO of INFIA Corp, the company behind Indonesia’s leading IP-driven digital platforms including Dam DIMS. He is a strong advocate for intellectual property as a driver of Indonesia’s creative economy future.",
+    "bioStatus": "researched"
   },
   {
     "id": "marvin-ade-s",
@@ -1915,8 +1915,8 @@
     "sessionIds": [
       "d2-s4-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Creative Director of Explore Surabaya, Business Development Middleform Design, Vice Chairman ADGI Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andreas-pao",
@@ -1928,8 +1928,8 @@
     "sessionIds": [
       "d2-s4-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Head stylist of styledbypao fashion stylist and consultant.",
+    "bioStatus": "role-based"
   },
   {
     "id": "deasy-tantra",
@@ -1941,8 +1941,8 @@
     "sessionIds": [
       "d2-s4-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Fashionpreneur, Founder & Creative Director of Deasy Tantra Studio & Bridal, Kinkami, and Benang Emas Studio Tantra.",
+    "bioStatus": "role-based"
   },
   {
     "id": "griselda-sampurno",
@@ -1954,8 +1954,8 @@
     "sessionIds": [
       "d2-s4-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Master of Ceremonies & Social Media Strategist.",
+    "bioStatus": "role-based"
   },
   {
     "id": "jeffry-lukito",
@@ -1967,8 +1967,8 @@
     "sessionIds": [
       "d2-s4-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Jeffry Lukito is the Founder of Korté Chocolate, an Indonesian craft chocolate brand. He represents the growing movement of bean-to-bar chocolate makers creating premium products from Indonesian cacao.",
+    "bioStatus": "researched"
   },
   {
     "id": "ajeng-fatima-almasyhur",
@@ -1980,8 +1980,8 @@
     "sessionIds": [
       "d2-s4-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, COO of Amagi Group - Corica Pastries & Chao Phraya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "regina-siddharta",
@@ -1993,8 +1993,8 @@
     "sessionIds": [
       "d2-s4-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Minutes of Manager.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andanu-prasetyo",
@@ -2008,8 +2008,8 @@
       "d2-s4-diamond3",
       "d3-c12"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Andanu Prasetyo is the Founder & CEO of Toko Kopi Tuku, one of Indonesia’s fastest-growing coffee chains known for its iconic “kopi susu tetangga.” Since launching in 2015 at Cipete Raya, Tuku has expanded across Jakarta and beyond, championing Indonesian coffee culture.",
+    "bioStatus": "researched"
   },
   {
     "id": "stephen-walla",
@@ -2021,8 +2021,8 @@
     "sessionIds": [
       "d2-s4-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, President Director PT Jamu IBOE Jaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "christofel-angelo",
@@ -2036,8 +2036,8 @@
       "d2-s4-diamond3",
       "d2-s7-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Christofel Angelo is the CEO of JCK Enterprise and CMO of Ejji Coffee Indonesia. As a Surabaya-based business leader, he has built JCK into a diversified enterprise spanning F&B, creative industries, and community development.",
+    "bioStatus": "researched"
   },
   {
     "id": "theo-william",
@@ -2049,8 +2049,8 @@
     "sessionIds": [
       "d2-s5-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of DB REAL ESTATE INDONESIA.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dicky-candra-jaya",
@@ -2062,8 +2062,8 @@
     "sessionIds": [
       "d2-s5-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, COO & Founder of DB Real Estate Indonesia.",
+    "bioStatus": "role-based"
   },
   {
     "id": "parama-suteja",
@@ -2075,8 +2075,8 @@
     "sessionIds": [
       "d2-s5-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Educational Content Creator, Partner at Yanson Property & Palmara Studio.",
+    "bioStatus": "role-based"
   },
   {
     "id": "yosua-ivan",
@@ -2088,8 +2088,8 @@
     "sessionIds": [
       "d2-s5-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Creative Director of UBS GOLD.",
+    "bioStatus": "role-based"
   },
   {
     "id": "cynthia-haryono",
@@ -2101,8 +2101,8 @@
     "sessionIds": [
       "d2-s5-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Cynthia Haryono is the Co-Owner of Saudara AI, an Indonesian AI solutions company. She focuses on making AI accessible and practical for businesses in Surabaya and beyond.",
+    "bioStatus": "researched"
   },
   {
     "id": "bimo",
@@ -2114,8 +2114,8 @@
     "sessionIds": [
       "d2-s5-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Owner of Depot Terasa Nikmat.",
+    "bioStatus": "role-based"
   },
   {
     "id": "pandu-priambodo",
@@ -2127,8 +2127,8 @@
     "sessionIds": [
       "d2-s5-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of Toko Roti Aren.",
+    "bioStatus": "role-based"
   },
   {
     "id": "diko-putranto",
@@ -2140,8 +2140,8 @@
     "sessionIds": [
       "d2-s5-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Producer of Podcast Mendoan & Digital Content Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "cheryl-gunawan",
@@ -2153,8 +2153,8 @@
     "sessionIds": [
       "d2-s5-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Chef & Content Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "govinda-rumi",
@@ -2166,8 +2166,8 @@
     "sessionIds": [
       "d2-s5-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Photographer / Founder of We Are GRAF & Fill the Frame.",
+    "bioStatus": "role-based"
   },
   {
     "id": "niken-sasadhara-dr",
@@ -2181,8 +2181,8 @@
       "d2-s5-crystal3",
       "d2-s6-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Medical Doctor, Lecturer.",
+    "bioStatus": "role-based"
   },
   {
     "id": "watiek-ideo",
@@ -2194,8 +2194,8 @@
     "sessionIds": [
       "d2-s5-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of @ideokids.id.",
+    "bioStatus": "role-based"
   },
   {
     "id": "baby-amelia",
@@ -2207,8 +2207,8 @@
     "sessionIds": [
       "d2-s5-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Professional Skills Mentor at Apple Developer Academy @ UC, Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "devita-lesmana",
@@ -2220,8 +2220,8 @@
     "sessionIds": [
       "d2-s5-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ruth-nathania",
@@ -2233,8 +2233,8 @@
     "sessionIds": [
       "d2-s5-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of MTG Lab & Spacive.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ardie-yapola",
@@ -2246,8 +2246,8 @@
     "sessionIds": [
       "d2-s5-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of Beta Design studio.",
+    "bioStatus": "role-based"
   },
   {
     "id": "elvina-goey",
@@ -2259,8 +2259,8 @@
     "sessionIds": [
       "d2-s5-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of POLKI Indonesia.",
+    "bioStatus": "role-based"
   },
   {
     "id": "sitti-raisya-fitri-e",
@@ -2272,8 +2272,8 @@
     "sessionIds": [
       "d2-s5-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Sitti Raisya Fitri E is the Co-Founder & CCO of Kasir Pintar, one of Indonesia’s leading POS and digital solutions platforms for small businesses. The platform has helped thousands of UMKM digitize their operations.",
+    "bioStatus": "researched"
   },
   {
     "id": "ahmad-darul-fikri-khowas",
@@ -2285,8 +2285,8 @@
     "sessionIds": [
       "d2-s5-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, QA/QC Manager of PT Fairpack Indonesia (Nestle).",
+    "bioStatus": "role-based"
   },
   {
     "id": "stephanie-wibisana",
@@ -2298,8 +2298,8 @@
     "sessionIds": [
       "d2-s5-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Stephanie Wibisana is the Co-Founder of YouthUp, the organization behind IdeaFest SUB and Artisan Market. He is dedicated to building entrepreneurial ecosystems for young Indonesians.",
+    "bioStatus": "researched"
   },
   {
     "id": "fanni-susilo",
@@ -2311,8 +2311,8 @@
     "sessionIds": [
       "d2-s5-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Fanni Susilo is the Co-Founder of YouthUp and Artisan Market, and President Commissioner of PT Sekar Laut. He bridges festival curation, startup building, and corporate governance.",
+    "bioStatus": "researched"
   },
   {
     "id": "isaac-munandar",
@@ -2324,8 +2324,8 @@
     "sessionIds": [
       "d2-s5-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Isaac Munandar is the Co-Founder & CEO of MAXY AI, an Indonesian AI company. He advocates for local AI solutions and digital transformation for Indonesian businesses.",
+    "bioStatus": "researched"
   },
   {
     "id": "healthguard-by-its",
@@ -2337,8 +2337,8 @@
     "sessionIds": [
       "d2-s5-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, .",
+    "bioStatus": "role-based"
   },
   {
     "id": "risa-santoso",
@@ -2350,8 +2350,8 @@
     "sessionIds": [
       "d2-s5-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Rektor Institut Asia Malang.",
+    "bioStatus": "role-based"
   },
   {
     "id": "william-sudhana",
@@ -2365,8 +2365,8 @@
       "d2-s6-origin",
       "d3-c7"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "William Sudhana is the CEO of vosFoyer and a Builder at Kumpul Leaders. He focuses on data-driven marketing, entrepreneurial ecosystems, and community building in Surabaya.",
+    "bioStatus": "researched"
   },
   {
     "id": "yessie-natasia",
@@ -2378,8 +2378,8 @@
     "sessionIds": [
       "d2-s6-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of YORRI.",
+    "bioStatus": "role-based"
   },
   {
     "id": "richard-handiwiyanto",
@@ -2391,8 +2391,8 @@
     "sessionIds": [
       "d2-s6-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Managing Partner of Handiwiyanto Law Office.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andrew-prasetya-goenardi",
@@ -2404,8 +2404,8 @@
     "sessionIds": [
       "d2-s6-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Andrew Prasetya Goenardi is the Founder & CEO of TITIK KOMA, one of Surabaya’s most well-known coffee shop brands that has become a cultural landmark for the city’s youth and creative community.",
+    "bioStatus": "researched"
   },
   {
     "id": "septian-setiadi",
@@ -2417,8 +2417,8 @@
     "sessionIds": [
       "d2-s6-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator, Manager at DB Real Estate Indonesia.",
+    "bioStatus": "role-based"
   },
   {
     "id": "hana-amalia-vandayani",
@@ -2430,8 +2430,8 @@
     "sessionIds": [
       "d2-s6-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of Yayasan Pondok Kasih.",
+    "bioStatus": "role-based"
   },
   {
     "id": "lailani-fitrah-ramadhani",
@@ -2443,8 +2443,8 @@
     "sessionIds": [
       "d2-s6-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Puteri Indonesia DKI Jakarta 6 2025 & Owner Brand Parfum Sajak Harum.",
+    "bioStatus": "role-based"
   },
   {
     "id": "i-made-arga",
@@ -2456,8 +2456,8 @@
     "sessionIds": [
       "d2-s6-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Community & AI developer.",
+    "bioStatus": "role-based"
   },
   {
     "id": "reda-gaudiamo",
@@ -2471,8 +2471,8 @@
       "d2-s6-crystal3",
       "d3-c9"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Reda Gaudiamo is an Indonesian author, musician, and UN Champion for Digital Literacy in Indonesia. Born in Surabaya, she formed the musical duo AriReda with Ari Malibu and has written extensively for young readers while championing literacy across the archipelago.",
+    "bioStatus": "researched"
   },
   {
     "id": "stephanie-waringga-evan",
@@ -2484,8 +2484,8 @@
     "sessionIds": [
       "d2-s6-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator - Mom of 3.",
+    "bioStatus": "role-based"
   },
   {
     "id": "lie-luther",
@@ -2497,8 +2497,8 @@
     "sessionIds": [
       "d2-s6-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Lie Luther is a Co-Founder of Common Grounds Surabaya, a pioneering specialty coffee establishment that helped launch Surabaya’s third-wave coffee scene.",
+    "bioStatus": "researched"
   },
   {
     "id": "matthew-samudro",
@@ -2512,8 +2512,8 @@
       "d2-s6-crystal45",
       "d3-c8"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andre-harrera",
@@ -2525,8 +2525,8 @@
     "sessionIds": [
       "d2-s6-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Content Creator & Community Builder.",
+    "bioStatus": "role-based"
   },
   {
     "id": "donny-ardy-kusuma",
@@ -2538,8 +2538,8 @@
     "sessionIds": [
       "d2-s6-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Sport Scientist, Director Center of Excellence - Sport and Exercise Research Center, UNESA.",
+    "bioStatus": "role-based"
   },
   {
     "id": "leani-ratri-oktila",
@@ -2551,8 +2551,8 @@
     "sessionIds": [
       "d2-s6-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Leani Ratri Oktila is an Indonesian para-badminton athlete and Paralympic gold medalist. She won gold in women’s doubles and silver in singles at the Tokyo 2020 Paralympics, and made history at the 2024 BWF Para Badminton World Championships as the most successful female Para athlete with six World titles.",
+    "bioStatus": "researched"
   },
   {
     "id": "rapha-natanael",
@@ -2564,8 +2564,8 @@
     "sessionIds": [
       "d2-s6-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Host & Voice Over Artist.",
+    "bioStatus": "role-based"
   },
   {
     "id": "hadi-ismanto",
@@ -2579,8 +2579,8 @@
       "d2-s6-diamond2",
       "d3-c7"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Hadi Ismanto is the CEO of New Media Folder, the media company behind MANUAL and ZOU—Surabaya’s leading lifestyle and city guides. He focuses on curating local potential with fresh media perspectives.",
+    "bioStatus": "researched"
   },
   {
     "id": "essly-the",
@@ -2592,8 +2592,8 @@
     "sessionIds": [
       "d2-s6-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Writer dan Content Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "agustinus-lee-martin",
@@ -2605,8 +2605,8 @@
     "sessionIds": [
       "d2-s6-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of SLINGSHOT COMMUNITY.",
+    "bioStatus": "role-based"
   },
   {
     "id": "henny-adisumarto",
@@ -2618,8 +2618,8 @@
     "sessionIds": [
       "d2-s6-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Writer & Podcaster.",
+    "bioStatus": "role-based"
   },
   {
     "id": "royes",
@@ -2631,8 +2631,8 @@
     "sessionIds": [
       "d2-s7-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, 3d Artist / Animator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "kelvin-morris-wirjohandjojo",
@@ -2644,8 +2644,8 @@
     "sessionIds": [
       "d2-s7-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Documentary Cinematographer.",
+    "bioStatus": "role-based"
   },
   {
     "id": "andaka-pramadya",
@@ -2657,8 +2657,8 @@
     "sessionIds": [
       "d2-s7-origin"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Author of @gaung.kosong.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ernest-c-layman",
@@ -2670,8 +2670,8 @@
     "sessionIds": [
       "d2-s7-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Ernest C Layman is the CEO and Co-Founder of Rekosistem, an Indonesian waste management and recycling technology company. He works on scaling sustainability infrastructure across Indonesia.",
+    "bioStatus": "researched"
   },
   {
     "id": "syukriyatun-ni-amah-niam",
@@ -2683,8 +2683,8 @@
     "sessionIds": [
       "d2-s7-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO & Founder of Robries.",
+    "bioStatus": "role-based"
   },
   {
     "id": "angie-ayu-mujahida",
@@ -2696,8 +2696,8 @@
     "sessionIds": [
       "d2-s7-crystal1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Brand Marketing.",
+    "bioStatus": "role-based"
   },
   {
     "id": "thea-irena-wirasasmita",
@@ -2709,8 +2709,8 @@
     "sessionIds": [
       "d2-s7-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of Agrosari Farm.",
+    "bioStatus": "role-based"
   },
   {
     "id": "chef-tius-faisal-martadinata",
@@ -2722,8 +2722,8 @@
     "sessionIds": [
       "d2-s7-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Chef Owner of Steaklab Steakhouse Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "dony-abrianto",
@@ -2735,8 +2735,8 @@
     "sessionIds": [
       "d2-s7-crystal2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Cak & Ning Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "nyoman-nuarta",
@@ -2748,8 +2748,8 @@
     "sessionIds": [
       "d2-s7-crystal3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "I Nyoman Nuarta is one of Indonesia’s most celebrated sculptors, best known for creating the 121-meter Garuda Wisnu Kencana statue in Bali—the tallest statue in Indonesia. His career spans over four decades with 200+ artworks, including the Jalesveva Jayamahe Monument in Surabaya and the Indonesian Proclamation Monument in Jakarta.",
+    "bioStatus": "researched"
   },
   {
     "id": "coach-ferry-gunawan",
@@ -2761,8 +2761,8 @@
     "sessionIds": [
       "d2-s7-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO #1SUPERMENTOR.",
+    "bioStatus": "role-based"
   },
   {
     "id": "vina-tania",
@@ -2774,8 +2774,8 @@
     "sessionIds": [
       "d2-s7-crystal45"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Financial Consultant.",
+    "bioStatus": "role-based"
   },
   {
     "id": "natasya-limano",
@@ -2787,8 +2787,8 @@
     "sessionIds": [
       "d2-s7-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Co-founder Bloom360 dan BloomLab.",
+    "bioStatus": "role-based"
   },
   {
     "id": "tan-melissa",
@@ -2800,8 +2800,8 @@
     "sessionIds": [
       "d2-s7-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Owner of PT Nison, Owner of KX Pilates Surabaya West, Co-Founder of Melon Cup and Co-Owner of the coming soon Melon Arena.",
+    "bioStatus": "role-based"
   },
   {
     "id": "alisa-putri",
@@ -2813,8 +2813,8 @@
     "sessionIds": [
       "d2-s7-diamond1"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Marketing Manager of White Diary Indonesia.",
+    "bioStatus": "role-based"
   },
   {
     "id": "erick-limanhadi",
@@ -2826,8 +2826,8 @@
     "sessionIds": [
       "d2-s7-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder and Creative Director of Ericklim Photography.",
+    "bioStatus": "role-based"
   },
   {
     "id": "nadia-leona",
@@ -2839,8 +2839,8 @@
     "sessionIds": [
       "d2-s7-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Creative Project Manager & Founder of LOAD PROJECT. STYLIST & CONCEPT DEVELOPER @bynadialeona.",
+    "bioStatus": "role-based"
   },
   {
     "id": "fritzca-wibisono",
@@ -2852,8 +2852,8 @@
     "sessionIds": [
       "d2-s7-diamond2"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of SAMAYA Planning & Build.",
+    "bioStatus": "role-based"
   },
   {
     "id": "chandra-jayatama-tedjadipura",
@@ -2865,8 +2865,8 @@
     "sessionIds": [
       "d2-s7-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Producer Podcast The Mind Behind & Tim Grafis Suara Surabaya.",
+    "bioStatus": "role-based"
   },
   {
     "id": "hendra-hutagalung",
@@ -2878,8 +2878,8 @@
     "sessionIds": [
       "d2-s7-diamond3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Lead Of Commercial Creative Suara Surabaya Media/ Announcer/ Voice Over Talent.",
+    "bioStatus": "role-based"
   },
   {
     "id": "saskia-tessy",
@@ -2891,8 +2891,8 @@
     "sessionIds": [
       "d3-c0"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Saskia Tessy is the Co-Founder of YouthUp and Festival Director of IdeaFest SUB. She leads the vision behind IdeaFest Surabaya and the YouthUp business camp, driving youth entrepreneurship and creative industry growth in East Java.",
+    "bioStatus": "researched"
   },
   {
     "id": "ben-soebiakto",
@@ -2904,8 +2904,8 @@
     "sessionIds": [
       "d3-c3"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Ben Soebiakto is the Executive Producer of BASE Entertainment, an Indonesian entertainment production company. He brings decades of experience in crafting entertainment that resonates with Indonesian audiences.",
+    "bioStatus": "researched"
   },
   {
     "id": "theo-derick",
@@ -2917,8 +2917,8 @@
     "sessionIds": [
       "d3-c5"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Founder of Acrobyte Group and Grind Theory.",
+    "bioStatus": "role-based"
   },
   {
     "id": "daniel-santoso",
@@ -2930,8 +2930,8 @@
     "sessionIds": [
       "d3-c5"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, IP Producer of UBS Gold.",
+    "bioStatus": "role-based"
   },
   {
     "id": "billy-tanhadi",
@@ -2943,8 +2943,8 @@
     "sessionIds": [
       "d3-c5"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Entrepreneur & Creator.",
+    "bioStatus": "role-based"
   },
   {
     "id": "maghfiro-ridho-m",
@@ -2956,8 +2956,8 @@
     "sessionIds": [
       "d3-c10"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, Initiator IdeaFriends by Ideafest.",
+    "bioStatus": "role-based"
   },
   {
     "id": "ria-ellysa",
@@ -2969,7 +2969,7 @@
     "sessionIds": [
       "d3-c12"
     ],
-    "bio": "",
-    "bioStatus": "pending"
+    "bio": "Speaker at IdeaFest SUB 2026, CEO of PT Pangan Adil Sehat.",
+    "bioStatus": "role-based"
   }
 ]
