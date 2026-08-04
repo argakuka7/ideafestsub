@@ -1,5 +1,7 @@
 "use client";
 
+import { Icon } from "@iconify/react";
+
 interface BookmarkButtonProps {
   active: boolean;
   className?: string;
@@ -22,9 +24,7 @@ export function BookmarkButton({ active, className = "", onClick }: BookmarkButt
       }}
       type="button"
     >
-      <svg aria-hidden="true" className="h-4 w-4" fill={active ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-        <path strokeLinecap="round" strokeLinejoin="round" d="M6 3.75A1.75 1.75 0 0 1 7.75 2h8.5A1.75 1.75 0 0 1 18 3.75v17.5l-6-3.6-6 3.6V3.75Z" />
-      </svg>
+      <Icon icon={active ? "lucide:bookmark-check" : "lucide:bookmark"} className="h-4 w-4" />
     </button>
   );
 }

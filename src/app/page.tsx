@@ -9,6 +9,7 @@ import { TrackFilter } from "@/components/schedule/TrackFilter";
 import sessionsData from "@/data/sessions.json";
 import { Blob } from "@/components/motifs/Blob";
 import { SmallLeapBadge } from "@/components/SmallLeapBadge";
+import { Icon } from "@iconify/react";
 import type { DayData, Session } from "@/lib/types";
 
 const scheduleDays = sessionsData as DayData[];
@@ -85,8 +86,8 @@ export default function Home() {
           <div className="relative">
             <Blob className="pointer-events-none absolute -top-12 -right-12 -z-10 h-44 w-44 opacity-90 sm:h-56 sm:w-56" color="#E91E8C" />
             <p className="text-sm font-black uppercase tracking-[0.18em] text-[var(--pink)]">IDEAFEST SUB 2026 · THE NEXT LEAP</p>
-            <h1 className="mt-2 font-display text-5xl leading-[0.95] tracking-tight text-[var(--navy)] sm:text-7xl">Find your next<br />big idea.</h1>
-            <p className="mt-4 max-w-xl text-base leading-relaxed text-[#1A1A1A]/70 sm:text-lg">
+            <h1 className="mt-2 font-display text-5xl leading-[0.95] tracking-tight text-[var(--cream)] drop-shadow-[0_2px_12px_rgba(0,0,0,0.35)] sm:text-7xl">Find your next<br />big idea.</h1>
+            <p className="mt-4 max-w-xl text-base leading-relaxed text-white/85 sm:text-lg">
               Explore conversations across eight rooms, then save the talks you do not want to miss.
             </p>
             <div className="mt-5"><SmallLeapBadge /></div>
@@ -115,10 +116,7 @@ export default function Home() {
           </div>
         ) : (
           <div className="rounded-3xl border border-dashed border-gray-300 bg-gray-50 px-6 py-16 text-center">
-            <svg aria-hidden="true" className="mx-auto h-10 w-10 text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5">
-              <circle cx="11" cy="11" r="6" />
-              <path strokeLinecap="round" d="m16 16 4 4" />
-            </svg>
+            <Icon aria-hidden icon="lucide:search" className="mx-auto h-10 w-10 text-gray-300" />
             <h2 className="mt-4 text-lg font-black text-[#1A1A1A]">No talks found</h2>
             <p className="mt-1 text-sm text-gray-500">Try a different search or clear one of your track filters.</p>
             <button

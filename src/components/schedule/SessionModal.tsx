@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import { Icon } from "@iconify/react";
 import { BookmarkButton } from "@/components/schedule/BookmarkButton";
 import { getTrackStyle } from "@/data/tracks";
 import { useBookmarks } from "@/lib/useBookmarks";
@@ -59,9 +60,7 @@ export function SessionModal({ session, onClose }: SessionModalProps) {
                 onClick={onClose}
                 type="button"
               >
-                <svg aria-hidden="true" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                  <path strokeLinecap="round" d="M6 6l12 12M18 6 6 18" />
-                </svg>
+                <Icon aria-hidden icon="lucide:x" className="h-5 w-5" />
               </button>
             </div>
           </div>
@@ -70,17 +69,11 @@ export function SessionModal({ session, onClose }: SessionModalProps) {
           </h2>
           <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm font-semibold text-gray-600">
             <span className="inline-flex items-center gap-2">
-              <svg aria-hidden="true" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                <circle cx="12" cy="12" r="9" />
-                <path strokeLinecap="round" d="M12 7v5l3 2" />
-              </svg>
+              <Icon aria-hidden icon="lucide:clock" className="h-4 w-4" />
               {session.time}
             </span>
             <span className="inline-flex items-center gap-2">
-              <svg aria-hidden="true" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M12 21s7-5.23 7-12a7 7 0 1 0-14 0c0 6.77 7 12 7 12Z" />
-                <circle cx="12" cy="9" r="2" />
-              </svg>
+              <Icon aria-hidden icon="lucide:map-pin" className="h-4 w-4" />
               {session.room}
             </span>
           </div>

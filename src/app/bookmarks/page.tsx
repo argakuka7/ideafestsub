@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Icon } from "@iconify/react";
 import { useMemo, useState } from "react";
 import { SessionCard } from "@/components/schedule/SessionCard";
 import { SessionModal } from "@/components/schedule/SessionModal";
@@ -55,9 +56,7 @@ export default function BookmarksPage() {
       ) : (
         <div className="mt-8 rounded-3xl border border-dashed border-gray-300 bg-gray-50 px-6 py-16 text-center">
           <span className="mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-[#E91E8C]/10 text-[#E91E8C]">
-            <svg aria-hidden="true" className="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.75">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M6 3.75A1.75 1.75 0 0 1 7.75 2h8.5A1.75 1.75 0 0 1 18 3.75v17.5l-6-3.6-6 3.6V3.75Z" />
-            </svg>
+            <Icon aria-hidden icon="lucide:bookmark" className="h-7 w-7" />
           </span>
           <h2 className="mt-4 text-xl font-black text-[#1A1A1A]">No saved talks yet</h2>
           <p className="mx-auto mt-2 max-w-sm text-sm leading-relaxed text-gray-500">Bookmark any session from the schedule to build your personal rundown.</p>
