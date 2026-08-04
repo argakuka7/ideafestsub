@@ -40,4 +40,6 @@ export interface SpeakerEntry {
   sessionIds: string[];
   bio: string;
   bioStatus: string;
+  avatar?: string;
+  photo?: string;
 }

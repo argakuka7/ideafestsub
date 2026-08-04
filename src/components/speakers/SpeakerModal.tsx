@@ -48,9 +48,13 @@ export function SpeakerModal({ speaker, onClose }: SpeakerModalProps) {
             <span aria-hidden="true">×</span>
           </button>
           <div className="flex items-center gap-4 pr-9">
-            <div className="flex h-20 w-20 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-[#FF3B3B] via-[#E91E8C] to-[#8338EC] text-3xl font-bold shadow-lg">
-              {speaker.name.charAt(0).toUpperCase()}
-            </div>
+            <img
+              src={speaker.avatar}
+              alt={speaker.name}
+              width={80}
+              height={80}
+              className="h-20 w-20 shrink-0 rounded-full bg-gradient-to-br from-[#FF3B3B] via-[#E91E8C] to-[#8338EC] shadow-lg"
+            />
             <div>
               <h2 id="speaker-modal-title" className="text-2xl font-bold tracking-tight">
                 {speaker.name}
